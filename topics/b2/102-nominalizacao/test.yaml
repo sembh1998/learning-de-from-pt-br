@@ -1,0 +1,91 @@
+topic: Nominalização
+level: B2
+questions:
+  - type: multiple_choice
+    question: "Qual opção transforma a ação em uma nominalização correta?"
+    options:
+      - "Das Lesen wissenschaftlicher Texte erfordert Konzentration."
+      - "Die Lesen wissenschaftlicher Texte erfordert Konzentration."
+      - "Das lesung wissenschaftlicher Texte erfordert Konzentration."
+    answer: "Das Lesen wissenschaftlicher Texte erfordert Konzentration."
+    points: 1
+  - type: fill_blank
+    question: "Complete: Vor der ___ des Angebots sollten wir die Preise vergleichen."
+    answer: "Annahme"
+    points: 1
+  - type: multiple_choice
+    question: "Escolha a versão mais formal de: 'Wir bewerten die Ergebnisse nächste Woche.'"
+    options:
+      - "Das Bewerten die Ergebnisse passiert nächste Woche."
+      - "Die Bewertung der Ergebnisse erfolgt nächste Woche."
+      - "Der Bewertung den Ergebnissen erfolgt nächste Woche."
+    answer: "Die Bewertung der Ergebnisse erfolgt nächste Woche."
+    points: 1
+  - type: correction
+    question: "Corrija: Nach das Ausfüllen des Formulars klicken Sie auf 'Senden'."
+    answer: "Nach dem Ausfüllen des Formulars klicken Sie auf 'Senden'."
+    points: 1
+  - type: transformation
+    question: "Reescreva formalmente: 'Die Universität veröffentlicht die Studie im Herbst.'"
+    answer: "Die Veröffentlichung der Studie erfolgt im Herbst."
+    points: 2
+  - type: multiple_choice
+    question: "Qual frase usa corretamente uma nominalização depois de preposição?"
+    options:
+      - "Bei die Entwicklung der App gab es technische Probleme."
+      - "Bei dem Entwickeln die App gab es technische Probleme."
+      - "Bei der Entwicklung der App gab es technische Probleme."
+    answer: "Bei der Entwicklung der App gab es technische Probleme."
+    points: 1
+  - type: fill_blank
+    question: "Complete: Die ___ eines klaren Plans erleichtert die Zusammenarbeit. (erstellen)"
+    answer: "Erstellung"
+    points: 1
+  - type: short_answer
+    question: "Escreva uma frase com 'durch' + infinitivo nominalizado para a ideia: praticar regularmente melhora a fluência."
+    answer: "Durch regelmäßiges Üben verbessert sich die Flüssigkeit."
+    points: 2
+  - type: multiple_choice
+    question: "Qual nominalização é mais natural para 'sich bewerben'?"
+    options:
+      - "die Bewerbung"
+      - "das Bewerben"
+      - "der Bewerb"
+    answer: "die Bewerbung"
+    points: 1
+  - type: correction
+    question: "Corrija: Die entscheidung wurde ohne Diskussion getroffen."
+    answer: "Die Entscheidung wurde ohne Diskussion getroffen."
+    points: 1
+  - type: transformation
+    question: "Reescreva formalmente: 'Man führt die Interviews im Juli durch.'"
+    answer: "Die Durchführung der Interviews erfolgt im Juli."
+    points: 2
+  - type: multiple_choice
+    question: "Qual opção mantém o sentido e melhora o estilo formal?"
+    options:
+      - "Nach der Beratung erhalten die Kunden einen Vorschlag."
+      - "Nach die Beratung erhalten die Kunden einen Vorschlag."
+      - "Nach dem Beratung erhalten die Kunden einen Vorschlag."
+    answer: "Nach der Beratung erhalten die Kunden einen Vorschlag."
+    points: 1
+  - type: fill_blank
+    question: "Complete: Die ___ der neuen Methode wurde positiv bewertet. (anwenden)"
+    answer: "Anwendung"
+    points: 1
+  - type: short_answer
+    question: "Transforme em substantivo: 'Die Abteilung organisiert die Reise.'"
+    answer: "Die Organisation der Reise erfolgt durch die Abteilung."
+    points: 2
+  - type: multiple_choice
+    question: "Qual opção descreve melhor o efeito de uma nominalização em um relatório?"
+    options:
+      - "Ela sempre deixa o texto mais pessoal e coloquial."
+      - "Ela elimina a necessidade de artigos e casos."
+      - "Ela pode deixar o texto mais objetivo e formal."
+    answer: "Ela pode deixar o texto mais objetivo e formal."
+    points: 1
+  - type: correction
+    question: "Corrija: Durch schnelles reagieren konnte das Team den Fehler vermeiden."
+    answer: "Durch schnelles Reagieren konnte das Team den Fehler vermeiden."
+    points: 1

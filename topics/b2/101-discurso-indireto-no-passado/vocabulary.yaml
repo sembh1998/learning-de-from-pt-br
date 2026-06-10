@@ -1,0 +1,101 @@
+topic: Discurso indireto no passado
+level: B2
+words:
+  - german: der Zeuge
+    translation: a testemunha
+    type: noun
+    gender: masculine
+    plural: die Zeugen
+    example: Der Zeuge sagte, er habe den Unfall gesehen.
+    example_translation: A testemunha disse que viu/tinha visto o acidente.
+  - german: die Zeugin
+    translation: a testemunha
+    type: noun
+    gender: feminine
+    plural: die Zeuginnen
+    example: Die Zeugin erklärte, sie sei sofort gegangen.
+    example_translation: A testemunha declarou que saiu imediatamente.
+  - german: berichten
+    translation: relatar, noticiar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Zeitung berichtete, der Vertrag sei unterschrieben worden.
+    example_translation: O jornal noticiou que o contrato havia sido assinado.
+  - german: behaupten
+    translation: afirmar, alegar
+    type: verb
+    gender: null
+    plural: null
+    example: Er behauptete, er habe nichts gehört.
+    example_translation: Ele alegou que não ouviu/tinha ouvido nada.
+  - german: mitteilen
+    translation: comunicar, informar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Behörde teilte mit, sie habe den Fall geprüft.
+    example_translation: A autoridade informou que tinha examinado o caso.
+  - german: angeben
+    translation: informar, declarar
+    type: verb
+    gender: null
+    plural: null
+    example: Der Hersteller gab an, er habe die Mängel behoben.
+    example_translation: O fabricante declarou que tinha corrigido os defeitos.
+  - german: bereits
+    translation: já
+    type: adverb
+    gender: null
+    plural: null
+    example: Die Sprecherin sagte, die Entscheidung sei bereits gefallen.
+    example_translation: A porta-voz disse que a decisão já tinha sido tomada.
+  - german: angeblich
+    translation: supostamente, alegadamente
+    type: adverb
+    gender: null
+    plural: null
+    example: Er habe angeblich keine Nachricht erhalten.
+    example_translation: Ele supostamente não teria recebido nenhuma mensagem.
+  - german: die Quelle
+    translation: a fonte
+    type: noun
+    gender: feminine
+    plural: die Quellen
+    example: Laut Quelle sei das Treffen abgesagt worden.
+    example_translation: Segundo a fonte, a reunião havia sido cancelada.
+  - german: der Vorfall
+    translation: o incidente
+    type: noun
+    gender: masculine
+    plural: die Vorfälle
+    example: Der Bericht erklärte, der Vorfall habe lange gedauert.
+    example_translation: O relatório explicou que o incidente tinha durado muito.
+  - german: prüfen
+    translation: verificar, examinar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Kommission sagte, sie habe die Unterlagen geprüft.
+    example_translation: A comissão disse que tinha examinado os documentos.
+  - german: unterschreiben
+    translation: assinar
+    type: verb
+    gender: null
+    plural: null
+    example: Der Anwalt erklärte, sein Mandant habe den Vertrag nicht unterschrieben.
+    example_translation: O advogado declarou que seu cliente não tinha assinado o contrato.
+  - german: zurücktreten
+    translation: renunciar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Zeitung schrieb, der Direktor sei zurückgetreten.
+    example_translation: O jornal escreveu que o diretor havia renunciado.
+  - german: verlassen
+    translation: sair de, deixar
+    type: verb
+    gender: null
+    plural: null
+    example: Sie sagte, sie habe das Gebäude früh verlassen.
+    example_translation: Ela disse que tinha deixado o prédio cedo.

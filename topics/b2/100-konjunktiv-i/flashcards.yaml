@@ -1,0 +1,51 @@
+topic: Konjunktiv I
+level: B2
+cards:
+  - front: er sei
+    back: ele seria; ele estaria; ele é/está, segundo alguém
+    example: Der Reporter sagt, der Zeuge sei glaubwürdig.
+    example_translation: O repórter diz que a testemunha é confiável.
+  - front: er habe
+    back: ele teria; ele tem/teve, segundo alguém
+    example: Der Manager behauptet, er habe alle informiert.
+    example_translation: O gerente afirma que informou todos.
+  - front: es gebe
+    back: haveria; há, segundo a fonte
+    example: Die Behörde meldet, es gebe keine Gefahr.
+    example_translation: A autoridade informa que não há perigo.
+  - front: er werde
+    back: ele irá; ele vai, segundo alguém
+    example: Der Kandidat sagt, er werde die Kosten senken.
+    example_translation: O candidato diz que reduzirá os custos.
+  - front: er könne
+    back: ele poderia; ele pode, segundo alguém
+    example: Der Arzt erklärt, der Patient könne bald nach Hause.
+    example_translation: O médico explica que o paciente poderá ir para casa em breve.
+  - front: er müsse
+    back: ele teria de; ele deve, segundo alguém
+    example: Die Trainerin sagt, der Spieler müsse pausieren.
+    example_translation: A treinadora diz que o jogador precisa fazer uma pausa.
+  - front: sie seien
+    back: eles/elas seriam; estão, segundo alguém
+    example: Laut Feuerwehr seien die Häuser sicher.
+    example_translation: Segundo os bombeiros, as casas estão seguras.
+  - front: sie hätten
+    back: eles/elas teriam; têm/tiveram, segundo alguém
+    example: Die Forschenden sagen, sie hätten neue Daten.
+    example_translation: Os pesquisadores dizem que têm novos dados.
+  - front: sie könnten
+    back: eles/elas poderiam; podem, segundo alguém
+    example: Experten meinen, die Preise könnten weiter steigen.
+    example_translation: Especialistas acreditam que os preços podem continuar subindo.
+  - front: laut Polizei
+    back: segundo a polícia
+    example: Laut Polizei gebe es keine Hinweise auf Brandstiftung.
+    example_translation: Segundo a polícia, não há indícios de incêndio criminoso.
+  - front: nach Angaben der Regierung
+    back: segundo informações do governo
+    example: Nach Angaben der Regierung seien die Verhandlungen schwierig.
+    example_translation: Segundo informações do governo, as negociações estão difíceis.
+  - front: die Sprecherin erklärte
+    back: a porta-voz declarou
+    example: Die Sprecherin erklärte, die Maßnahme sei vorübergehend.
+    example_translation: A porta-voz declarou que a medida era temporária.

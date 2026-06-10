@@ -1,0 +1,71 @@
+topic: Zustandspassiv
+level: B2
+questions:
+  - type: multiple_choice
+    question: Qual frase descreve um estado resultante?
+    options:
+      - Das Fenster ist geöffnet.
+      - Das Fenster wird geöffnet.
+      - Jemand öffnet das Fenster.
+    answer: Das Fenster ist geöffnet.
+  - type: multiple_choice
+    question: Qual frase descreve uma ação em andamento no passivo?
+    options:
+      - Die Bestellung ist bestätigt.
+      - Die Bestellung wird bestätigt.
+      - Die Bestellung war bestätigt.
+    answer: Die Bestellung wird bestätigt.
+  - type: multiple_choice
+    question: O computador já funciona novamente depois do conserto. Qual frase é adequada?
+    options:
+      - Der Computer wird repariert.
+      - Der Computer repariert.
+      - Der Computer ist repariert.
+    answer: Der Computer ist repariert.
+  - type: fill_blank
+    question: "Complete: Die Ergebnisse ___ veröffentlicht."
+    answer: sind
+  - type: fill_blank
+    question: "Complete: Das Büro ___ am Wochenende geschlossen."
+    answer: ist
+  - type: fill_blank
+    question: "Complete no passado: Die Akten ___ sortiert."
+    answer: waren
+  - type: transformation
+    question: "Transforme em Zustandspassiv: Die Nachricht wird gelöscht."
+    answer: Die Nachricht ist gelöscht.
+  - type: transformation
+    question: "Transforme em Zustandspassiv: Die Termine werden bestätigt."
+    answer: Die Termine sind bestätigt.
+  - type: transformation
+    question: "Transforme em Vorgangspassiv: Die Küche ist renoviert."
+    answer: Die Küche wird renoviert.
+  - type: correction
+    question: "Corrija para expressar estado final: Die Tickets werden verkauft."
+    answer: Die Tickets sind verkauft.
+  - type: correction
+    question: "Corrija para expressar processo: Die Brücke ist geprüft."
+    answer: Die Brücke wird geprüft.
+  - type: short_answer
+    question: "Escreva em alemão: A entrada está bloqueada."
+    answer: Der Eingang ist gesperrt.
+  - type: short_answer
+    question: "Escreva em alemão: As informações estão atualizadas."
+    answer: Die Informationen sind aktualisiert.
+  - type: multiple_choice
+    question: Qual opção usa a estrutura do Zustandspassiv?
+    options:
+      - sein + Infinitiv
+      - werden + Partizip II
+      - sein + Partizip II
+    answer: sein + Partizip II
+  - type: multiple_choice
+    question: Qual opção combina melhor com a ideia de processo?
+    options:
+      - Die App wird installiert.
+      - Die App ist installiert.
+      - Die App war installiert.
+    answer: Die App wird installiert.
+  - type: short_answer
+    question: Explique em português a diferença entre Die Aufgabe wird erledigt e Die Aufgabe ist erledigt.
+    answer: A primeira destaca o processo; a segunda descreve o estado resultante, a tarefa já concluída.

@@ -1,0 +1,87 @@
+topic: Zustandspassiv
+level: B2
+words:
+  - german: geschlossen
+    translation: fechado
+    type: participle
+    gender: null
+    plural: null
+    example: Die Tür ist geschlossen.
+    example_translation: A porta está fechada.
+  - german: geöffnet
+    translation: aberto
+    type: participle
+    gender: null
+    plural: null
+    example: Das Fenster ist geöffnet.
+    example_translation: A janela está aberta.
+  - german: reserviert
+    translation: reservado
+    type: participle
+    gender: null
+    plural: null
+    example: Der Tisch ist reserviert.
+    example_translation: A mesa está reservada.
+  - german: vorbereitet
+    translation: preparado
+    type: participle
+    gender: null
+    plural: null
+    example: Der Raum ist vorbereitet.
+    example_translation: A sala está preparada.
+  - german: unterschrieben
+    translation: assinado
+    type: participle
+    gender: null
+    plural: null
+    example: Der Vertrag ist unterschrieben.
+    example_translation: O contrato está assinado.
+  - german: gespeichert
+    translation: salvo, armazenado
+    type: participle
+    gender: null
+    plural: null
+    example: Die Datei ist gespeichert.
+    example_translation: O arquivo está salvo.
+  - german: erledigt
+    translation: resolvido, feito, concluído
+    type: participle
+    gender: null
+    plural: null
+    example: Die Aufgabe ist erledigt.
+    example_translation: A tarefa está concluída.
+  - german: beschädigt
+    translation: danificado
+    type: participle
+    gender: null
+    plural: null
+    example: Das Gerät ist beschädigt.
+    example_translation: O aparelho está danificado.
+  - german: repariert
+    translation: consertado
+    type: participle
+    gender: null
+    plural: null
+    example: Der Drucker ist repariert.
+    example_translation: A impressora está consertada.
+  - german: geschlossen sein
+    translation: estar fechado
+    type: expression
+    gender: null
+    plural: null
+    example: Das Geschäft ist heute geschlossen.
+    example_translation: A loja está fechada hoje.
+  - german: in Betrieb sein
+    translation: estar em funcionamento
+    type: expression
+    gender: null
+    plural: null
+    example: Die neue Anlage ist seit Montag in Betrieb.
+    example_translation: A nova instalação está em funcionamento desde segunda-feira.
+  - german: außer Betrieb sein
+    translation: estar fora de funcionamento
+    type: expression
+    gender: null
+    plural: null
+    example: Der Aufzug ist außer Betrieb.
+    example_translation: O elevador está fora de funcionamento.

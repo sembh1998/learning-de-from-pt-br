@@ -1,0 +1,75 @@
+topic: Konjunktiv I
+level: B2
+questions:
+  - type: multiple_choice
+    question: Qual frase usa corretamente o Konjunktiv I para relatar uma declaração?
+    options:
+      - Der Anwalt sagt, die Aussage sei falsch.
+      - Der Anwalt sagt, die Aussage ist falsch.
+      - Der Anwalt sagt, die Aussage war falsch gewesen.
+    answer: Der Anwalt sagt, die Aussage sei falsch.
+  - type: fill_blank
+    question: Die Agentur meldet, es ___ technische Probleme.
+    answer: gebe
+  - type: multiple_choice
+    question: "Transforme corretamente: Die Direktorin sagt: Ich habe Verantwortung übernommen."
+    options:
+      - Die Direktorin sagt, sie hat Verantwortung übernommen.
+      - Die Direktorin sagt, sie habe Verantwortung übernommen.
+      - Die Direktorin sagt, sie hätte Verantwortung übernehmen.
+    answer: Die Direktorin sagt, sie habe Verantwortung übernommen.
+  - type: fill_blank
+    question: Der Abgeordnete erklärt, der Vorschlag ___ sinnvoll.
+    answer: sei
+  - type: multiple_choice
+    question: Qual opção mantém maior neutralidade jornalística?
+    options:
+      - Laut Bank sind die Daten sicher.
+      - Laut Bank waren die Daten sicher.
+      - Laut Bank seien die Daten sicher.
+    answer: Laut Bank seien die Daten sicher.
+  - type: transformation
+    question: "Reescreva em discurso indireto: Der Arzt sagt: Die Behandlung wirkt gut."
+    answer: Der Arzt sagt, die Behandlung wirke gut.
+  - type: fill_blank
+    question: Die Sprecherin betont, niemand ___ benachteiligt werden.
+    answer: solle
+  - type: multiple_choice
+    question: "Escolha a forma adequada para evitar ambiguidade quando o plural do Konjunktiv I coincide com o indicativo: Die Analysten sagen, sie ___ höhere Gewinne."
+    options:
+      - haben
+      - habe
+      - hätten
+    answer: hätten
+  - type: transformation
+    question: "Reescreva em estilo de notícia: Der Verband sagt: Wir wollen enger zusammenarbeiten."
+    answer: Der Verband sagt, er wolle enger zusammenarbeiten.
+  - type: short_answer
+    question: "Complete uma frase jornalística com a informação: Es gibt keinen Beweis. Comece com: Die Ermittler teilten mit..."
+    answer: Die Ermittler teilten mit, es gebe keinen Beweis.
+  - type: multiple_choice
+    question: Qual frase relata, sem assumir como fato próprio, uma posição da empresa?
+    options:
+      - Die Firma erklärte, das Produkt sei sicher.
+      - Die Firma erklärte, das Produkt ist sicher.
+      - Die Firma erklärte, das Produkt war sicher gewesen.
+    answer: Die Firma erklärte, das Produkt sei sicher.
+  - type: fill_blank
+    question: Die Gewerkschaft erklärt, man ___ über das Angebot beraten.
+    answer: werde
+  - type: translation
+    question: "Traduza para o alemão: Segundo o tribunal, o processo ainda estaria em andamento."
+    answer: Laut Gericht laufe das Verfahren noch.
+  - type: multiple_choice
+    question: "Escolha a forma mais adequada: Die Zeugin sagt, sie ___ den Täter nicht erkennen."
+    options:
+      - kann
+      - könne
+      - konnte
+    answer: könne
+  - type: correction
+    question: "Corrija para discurso indireto formal: Die Studie zeigt angeblich, die Methode ist wirksam."
+    answer: Die Studie zeige angeblich, die Methode sei wirksam.
+  - type: short_answer
+    question: Por que um jornalista usa Konjunktiv I em Der Minister sagt, die Krise sei vorbei?
+    answer: Para relatar a declaração do ministro com distância e neutralidade, sem apresentar a afirmação como fato confirmado pelo jornalista.

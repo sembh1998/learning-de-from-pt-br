@@ -1,0 +1,108 @@
+topic: Nominalização
+level: B2
+exercises:
+  - type: fill_blank
+    instruction: Complete com a nominalização correta do verbo entre parênteses. Use maiúscula e artigo quando necessário.
+    items:
+      - question: "___ neuer Wörter hilft beim Lesen. (lernen)"
+        answer: Das Lernen
+      - question: "Nach der ___ des Vertrags beginnt die Arbeit. (unterschreiben)"
+        answer: Unterzeichnung
+      - question: "Die ___ der Ergebnisse dauert bis Freitag. (auswerten)"
+        answer: Auswertung
+      - question: "Vor der ___ müssen alle Daten geprüft werden. (entscheiden)"
+        answer: Entscheidung
+      - question: "Bei der ___ des Projekts gab es Verzögerungen. (durchführen)"
+        answer: Durchführung
+
+  - type: multiple_choice
+    instruction: Escolha a forma nominalizada mais adequada ao estilo formal.
+    items:
+      - question: "Wir prüfen die Dokumente morgen."
+        options:
+          - "Die Prüfung der Dokumente erfolgt morgen."
+          - "Das Prüfen die Dokumente erfolgt morgen."
+          - "Die Prüfend der Dokumente erfolgt morgen."
+        answer: "Die Prüfung der Dokumente erfolgt morgen."
+      - question: "Die Firma führt das neue System im Mai ein."
+        options:
+          - "Das Einführen neues System beginnt im Mai."
+          - "Die Einführung des neuen Systems beginnt im Mai."
+          - "Der Einführung von dem neuen System beginnt im Mai."
+        answer: "Die Einführung des neuen Systems beginnt im Mai."
+      - question: "Alle Teilnehmer melden sich online an."
+        options:
+          - "Die Anmelden erfolgt online."
+          - "Das Anmeldung erfolgt online."
+          - "Die Anmeldung erfolgt online."
+        answer: "Die Anmeldung erfolgt online."
+
+  - type: transformation
+    instruction: Reescreva a frase usando uma nominalização. Mantenha o sentido e use um estilo mais formal.
+    items:
+      - question: "Wir bereiten die Konferenz sorgfältig vor."
+        answer: "Die sorgfältige Vorbereitung der Konferenz ist wichtig."
+      - question: "Man analysiert die Daten nach dem Interview."
+        answer: "Die Analyse der Daten erfolgt nach dem Interview."
+      - question: "Die Behörde kontrolliert die Anträge regelmäßig."
+        answer: "Die regelmäßige Kontrolle der Anträge erfolgt durch die Behörde."
+      - question: "Das Team verbessert die internen Prozesse."
+        answer: "Die Verbesserung der internen Prozesse erfolgt durch das Team."
+
+  - type: fill_blank
+    instruction: Complete com a preposição e a forma nominal correta.
+    items:
+      - question: "___ ___ der Umfrage sprechen wir über die Ergebnisse. (auswerten)"
+        answer: Nach der Auswertung
+      - question: "___ ___ des Kurses erhalten Sie ein Zertifikat. (abschließen)"
+        answer: Nach dem Abschluss
+      - question: "___ ___ regelmäßiger Beispiele wird die Regel klarer. (verwenden)"
+        answer: Durch das Verwenden
+      - question: "___ ___ der neuen Regel gab es viele Fragen. (einführen)"
+        answer: Bei der Einführung
+
+  - type: multiple_choice
+    instruction: Identifique a frase correta quanto a artigo, maiúscula e caso.
+    items:
+      - question: "Qual frase está correta?"
+        options:
+          - "Nach die Anmeldung erhalten Sie eine Bestätigung."
+          - "Nach der Anmeldung erhalten Sie eine Bestätigung."
+          - "Nach das Anmeldung erhalten Sie eine Bestätigung."
+        answer: "Nach der Anmeldung erhalten Sie eine Bestätigung."
+      - question: "Qual frase está correta?"
+        options:
+          - "Durch regelmäßiges Üben kann man Fortschritte machen."
+          - "Durch regelmäßige Übung kann man Fortschritte machen."
+          - "Durch regelmäßigen Üben kann man Fortschritte machen."
+        answer: "Durch regelmäßiges Üben kann man Fortschritte machen."
+      - question: "Qual frase está correta?"
+        options:
+          - "Bei das Durchführung gab es Probleme."
+          - "Bei den Durchführung gab es Probleme."
+          - "Bei der Durchführung gab es Probleme."
+        answer: "Bei der Durchführung gab es Probleme."
+
+  - type: short_answer
+    instruction: Escreva uma versão nominal formal para cada ideia. Há mais de uma resposta possível; use a resposta-modelo para conferir.
+    items:
+      - question: "Como dizer de forma nominal: 'Wir diskutieren die Vorschläge lange'?"
+        answer: "Die lange Diskussion der Vorschläge ist notwendig."
+      - question: "Como dizer de forma nominal: 'Man plant die Veranstaltung früh'?"
+        answer: "Die frühe Planung der Veranstaltung ist sinnvoll."
+      - question: "Como dizer de forma nominal: 'Die Mitarbeiter nehmen an der Schulung teil'?"
+        answer: "Die Teilnahme der Mitarbeiter an der Schulung ist vorgesehen."
+      - question: "Como dizer de forma nominal: 'Wir arbeiten mit zwei Partnern zusammen'?"
+        answer: "Die Zusammenarbeit mit zwei Partnern ist geplant."
+
+  - type: correction
+    instruction: Corrija o erro na nominalização.
+    items:
+      - question: "Das lernen einer Sprache braucht Zeit."
+        answer: "Das Lernen einer Sprache braucht Zeit."
+      - question: "Nach die Prüfung der Unterlagen bekommen Sie eine Antwort."
+        answer: "Nach der Prüfung der Unterlagen bekommen Sie eine Antwort."
+      - question: "Die Durchführen des Projekts war teuer."
+        answer: "Die Durchführung des Projekts war teuer."
+      - question: "Vor dem Entscheidung sollten wir alle Fakten kennen."
+        answer: "Vor der Entscheidung sollten wir alle Fakten kennen."

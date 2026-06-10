@@ -1,0 +1,43 @@
+topic: Discurso indireto no passado
+level: B2
+cards:
+  - front: er habe gesagt
+    back: ele disse/tinha dito
+    example: Der Sprecher erklärte, er habe das gestern gesagt.
+    example_translation: O porta-voz declarou que disse/tinha dito isso ontem.
+  - front: sie sei gegangen
+    back: ela foi embora/tinha ido embora
+    example: Die Zeugin sagte, sie sei kurz nach acht gegangen.
+    example_translation: A testemunha disse que foi embora pouco depois das oito.
+  - front: er habe gesehen
+    back: ele viu/tinha visto
+    example: Der Fahrer behauptete, er habe das Schild nicht gesehen.
+    example_translation: O motorista afirmou que não viu/tinha visto a placa.
+  - front: sie habe geprüft
+    back: ela verificou/tinha verificado
+    example: Die Behörde teilte mit, sie habe den Antrag geprüft.
+    example_translation: A autoridade informou que tinha verificado o pedido.
+  - front: es sei passiert
+    back: isso aconteceu/tinha acontecido
+    example: Der Bericht schrieb, es sei gegen Mitternacht passiert.
+    example_translation: O relatório escreveu que isso aconteceu por volta da meia-noite.
+  - front: der Vertrag sei unterschrieben worden
+    back: o contrato foi/tinha sido assinado
+    example: Laut Kanzlei sei der Vertrag am Montag unterschrieben worden.
+    example_translation: Segundo o escritório, o contrato tinha sido assinado na segunda-feira.
+  - front: sie hätten gefunden
+    back: eles encontraram/tinham encontrado
+    example: Die Ermittler sagten, sie hätten neue Beweise gefunden.
+    example_translation: Os investigadores disseram que tinham encontrado novas provas.
+  - front: er habe kommen müssen
+    back: ele teve/tinha tido que vir
+    example: Der Techniker erklärte, er habe am Abend kommen müssen.
+    example_translation: O técnico explicou que teve que vir à noite.
+  - front: sie sei zurückgetreten
+    back: ela renunciou/tinha renunciado
+    example: Die Zeitung meldete, die Vorsitzende sei zurückgetreten.
+    example_translation: O jornal noticiou que a presidente havia renunciado.
+  - front: er habe nichts gewusst
+    back: ele não sabia/não tinha sabido de nada
+    example: Der Manager behauptete, er habe nichts gewusst.
+    example_translation: O gerente afirmou que não sabia de nada.

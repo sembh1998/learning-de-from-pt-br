@@ -1,0 +1,43 @@
+topic: Zustandspassiv
+level: B2
+cards:
+  - front: Die Tür ist geschlossen.
+    back: A porta está fechada; estado resultante.
+    example: Die Tür ist geschlossen, deshalb können wir hier nicht hinein.
+    example_translation: A porta está fechada, por isso não podemos entrar por aqui.
+  - front: Die Tür wird geschlossen.
+    back: A porta está sendo fechada; processo.
+    example: Bitte warten Sie, die Tür wird gerade geschlossen.
+    example_translation: Por favor, aguarde, a porta está sendo fechada agora.
+  - front: sein + Partizip II
+    back: estrutura do Zustandspassiv.
+    example: Der Vertrag ist unterschrieben.
+    example_translation: O contrato está assinado.
+  - front: werden + Partizip II
+    back: estrutura do Vorgangspassiv.
+    example: Der Vertrag wird unterschrieben.
+    example_translation: O contrato está sendo assinado.
+  - front: Die Datei ist gespeichert.
+    back: O arquivo está salvo.
+    example: Die Datei ist gespeichert, du kannst den Computer ausschalten.
+    example_translation: O arquivo está salvo, você pode desligar o computador.
+  - front: Alle Plätze sind reserviert.
+    back: Todos os lugares estão reservados.
+    example: Leider sind alle Plätze bereits reserviert.
+    example_translation: Infelizmente, todos os lugares já estão reservados.
+  - front: Das Problem ist gelöst.
+    back: O problema está resolvido.
+    example: Nach dem Update ist das Problem gelöst.
+    example_translation: Depois da atualização, o problema está resolvido.
+  - front: Die Unterlagen waren vorbereitet.
+    back: Os documentos estavam preparados.
+    example: Die Unterlagen waren vorbereitet, aber niemand hatte sie gelesen.
+    example_translation: Os documentos estavam preparados, mas ninguém os tinha lido.
+  - front: Der Raum ist vorbereitet.
+    back: A sala está preparada.
+    example: Der Raum ist vorbereitet, die Präsentation kann beginnen.
+    example_translation: A sala está preparada, a apresentação pode começar.
+  - front: Der Aufzug ist außer Betrieb.
+    back: O elevador está fora de funcionamento.
+    example: Der Aufzug ist außer Betrieb, weil er beschädigt ist.
+    example_translation: O elevador está fora de funcionamento porque está danificado.

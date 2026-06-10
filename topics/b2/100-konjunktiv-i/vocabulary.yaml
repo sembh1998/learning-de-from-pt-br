@@ -1,0 +1,87 @@
+topic: Konjunktiv I
+level: B2
+words:
+  - german: berichten
+    translation: relatar; noticiar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Medien berichten, der Prozess beginne am Montag.
+    example_translation: A mídia relata que o processo começa na segunda-feira.
+  - german: erklären
+    translation: explicar; declarar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Sprecherin erklärte, die Entscheidung sei notwendig.
+    example_translation: A porta-voz declarou que a decisão era necessária.
+  - german: behaupten
+    translation: afirmar; alegar
+    type: verb
+    gender: null
+    plural: null
+    example: Der Zeuge behauptet, er habe den Fahrer gesehen.
+    example_translation: A testemunha afirma que viu o motorista.
+  - german: mitteilen
+    translation: comunicar; informar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Universität teilte mit, es gebe neue Regeln.
+    example_translation: A universidade informou que havia novas regras.
+  - german: ankündigen
+    translation: anunciar
+    type: verb
+    gender: null
+    plural: null
+    example: Der Konzern kündigte an, er werde Stellen schaffen.
+    example_translation: O grupo anunciou que criaria empregos.
+  - german: betonen
+    translation: enfatizar; ressaltar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Ministerin betonte, die Hilfe komme schnell.
+    example_translation: A ministra ressaltou que a ajuda chegaria rapidamente.
+  - german: laut Polizei
+    translation: segundo a polícia
+    type: expression
+    gender: null
+    plural: null
+    example: Laut Polizei seien mehrere Personen verletzt.
+    example_translation: Segundo a polícia, várias pessoas ficaram feridas.
+  - german: nach Angaben der Regierung
+    translation: segundo informações do governo
+    type: expression
+    gender: null
+    plural: null
+    example: Nach Angaben der Regierung gebe es genug Reserven.
+    example_translation: Segundo informações do governo, haveria reservas suficientes.
+  - german: die Quelle
+    translation: a fonte
+    type: noun
+    gender: feminine
+    plural: die Quellen
+    example: Die Quelle sagt, der Bericht sei vertraulich.
+    example_translation: A fonte diz que o relatório é confidencial.
+  - german: die Meldung
+    translation: a notícia; o comunicado
+    type: noun
+    gender: feminine
+    plural: die Meldungen
+    example: Die Meldung besagt, es gebe keine neuen Risiken.
+    example_translation: A notícia afirma que não há novos riscos.
+  - german: die Neutralität
+    translation: a neutralidade
+    type: noun
+    gender: feminine
+    plural: null
+    example: Der Konjunktiv I unterstützt journalistische Neutralität.
+    example_translation: O Konjunktiv I apoia a neutralidade jornalística.
+  - german: der Bericht
+    translation: o relatório; a reportagem
+    type: noun
+    gender: masculine
+    plural: die Berichte
+    example: Im Bericht steht, die Lage sei unklar.
+    example_translation: No relatório está escrito que a situação é incerta.

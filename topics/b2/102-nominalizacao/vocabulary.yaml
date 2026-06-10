@@ -1,0 +1,108 @@
+topic: Nominalização
+level: B2
+words:
+  - german: das Lernen
+    translation: o aprendizado; o ato de aprender
+    type: noun
+    gender: neuter
+    plural: null
+    example: Das Lernen neuer Strukturen braucht Geduld.
+    example_translation: O aprendizado de novas estruturas exige paciência.
+  - german: das Schreiben
+    translation: a escrita; o ato de escrever
+    type: noun
+    gender: neuter
+    plural: null
+    example: Das Schreiben formeller Texte fällt mir leichter.
+    example_translation: Escrever textos formais está ficando mais fácil para mim.
+  - german: die Entscheidung
+    translation: a decisão
+    type: noun
+    gender: feminine
+    plural: die Entscheidungen
+    example: Die Entscheidung wurde gestern bekannt gegeben.
+    example_translation: A decisão foi anunciada ontem.
+  - german: die Durchführung
+    translation: a realização; a execução
+    type: noun
+    gender: feminine
+    plural: die Durchführungen
+    example: Die Durchführung des Projekts dauerte sechs Monate.
+    example_translation: A realização do projeto durou seis meses.
+  - german: die Anmeldung
+    translation: a inscrição; o cadastro
+    type: noun
+    gender: feminine
+    plural: die Anmeldungen
+    example: Die Anmeldung ist bis Freitag möglich.
+    example_translation: A inscrição é possível até sexta-feira.
+  - german: die Prüfung
+    translation: a verificação; a prova; o exame
+    type: noun
+    gender: feminine
+    plural: die Prüfungen
+    example: Nach der Prüfung der Daten beginnt die Auswertung.
+    example_translation: Depois da verificação dos dados, começa a avaliação.
+  - german: die Einführung
+    translation: a introdução; a implementação inicial
+    type: noun
+    gender: feminine
+    plural: die Einführungen
+    example: Die Einführung der neuen Software ist geplant.
+    example_translation: A introdução do novo software está planejada.
+  - german: die Auswertung
+    translation: a avaliação; a análise de resultados
+    type: noun
+    gender: feminine
+    plural: die Auswertungen
+    example: Die Auswertung der Umfrage zeigt klare Trends.
+    example_translation: A análise da pesquisa mostra tendências claras.
+  - german: die Teilnahme
+    translation: a participação
+    type: noun
+    gender: feminine
+    plural: die Teilnahmen
+    example: Die Teilnahme an der Sitzung ist freiwillig.
+    example_translation: A participação na reunião é voluntária.
+  - german: die Vorbereitung
+    translation: a preparação
+    type: noun
+    gender: feminine
+    plural: die Vorbereitungen
+    example: Eine gründliche Vorbereitung spart später Zeit.
+    example_translation: Uma preparação cuidadosa economiza tempo depois.
+  - german: die Verbesserung
+    translation: a melhoria
+    type: noun
+    gender: feminine
+    plural: die Verbesserungen
+    example: Die Verbesserung des Stils ist ein wichtiges Ziel.
+    example_translation: A melhoria do estilo é um objetivo importante.
+  - german: die Zusammenarbeit
+    translation: a colaboração; o trabalho conjunto
+    type: noun
+    gender: feminine
+    plural: null
+    example: Durch gute Zusammenarbeit entstehen bessere Lösungen.
+    example_translation: Por meio de boa colaboração surgem soluções melhores.
+  - german: die Entwicklung
+    translation: o desenvolvimento
+    type: noun
+    gender: feminine
+    plural: die Entwicklungen
+    example: Die Entwicklung der App begann im Januar.
+    example_translation: O desenvolvimento do aplicativo começou em janeiro.
+  - german: der Abschluss
+    translation: a conclusão; o encerramento
+    type: noun
+    gender: masculine
+    plural: die Abschlüsse
+    example: Nach dem Abschluss der Analyse schreiben wir den Bericht.
+    example_translation: Depois da conclusão da análise, escrevemos o relatório.
+  - german: die Planung
+    translation: o planejamento
+    type: noun
+    gender: feminine
+    plural: die Planungen
+    example: Die Planung der Veranstaltung war sehr aufwendig.
+    example_translation: O planejamento do evento foi muito trabalhoso.

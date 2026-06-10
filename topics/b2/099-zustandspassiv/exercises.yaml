@@ -1,0 +1,122 @@
+topic: Zustandspassiv
+level: B2
+exercises:
+  - type: multiple_choice
+    instruction: Escolha se a frase destaca estado ou processo.
+    items:
+      - question: Die Tür ist geschlossen.
+        options:
+          - estado
+          - processo
+          - agente
+        answer: estado
+      - question: Der Bericht wird korrigiert.
+        options:
+          - estado
+          - resultado anterior
+          - processo
+        answer: processo
+      - question: Die Plätze sind reserviert.
+        options:
+          - processo
+          - estado
+          - ordem direta
+        answer: estado
+      - question: Das System wird aktualisiert.
+        options:
+          - estado final
+          - agente oculto
+          - processo
+        answer: processo
+
+  - type: fill_blank
+    instruction: Complete com a forma correta de sein para formar o Zustandspassiv.
+    items:
+      - question: Die Dokumente ___ vorbereitet.
+        answer: sind
+      - question: Der Vertrag ___ unterschrieben.
+        answer: ist
+      - question: Die Fenster ___ gestern geschlossen.
+        answer: waren
+      - question: Das Formular ___ noch nicht ausgefüllt.
+        answer: ist
+      - question: Die Rechnungen ___ bereits bezahlt.
+        answer: sind
+
+  - type: transformation
+    instruction: Transforme o processo em estado usando Zustandspassiv.
+    items:
+      - question: Die Tür wird geöffnet.
+        answer: Die Tür ist geöffnet.
+      - question: Der Computer wird repariert.
+        answer: Der Computer ist repariert.
+      - question: Die Daten werden gespeichert.
+        answer: Die Daten sind gespeichert.
+      - question: Der Raum wird vorbereitet.
+        answer: Der Raum ist vorbereitet.
+      - question: Die Anfrage wird bearbeitet.
+        answer: Die Anfrage ist bearbeitet.
+
+  - type: transformation
+    instruction: Transforme o estado em processo usando Vorgangspassiv.
+    items:
+      - question: Das Paket ist verpackt.
+        answer: Das Paket wird verpackt.
+      - question: Die E-Mail ist verschickt.
+        answer: Die E-Mail wird verschickt.
+      - question: Die Maschine ist gereinigt.
+        answer: Die Maschine wird gereinigt.
+      - question: Die Entscheidung ist dokumentiert.
+        answer: Die Entscheidung wird dokumentiert.
+
+  - type: multiple_choice
+    instruction: Escolha a frase adequada ao contexto.
+    items:
+      - question: O arquivo já está salvo; você só informa o resultado.
+        options:
+          - Die Datei wird gespeichert.
+          - Die Datei ist gespeichert.
+          - Die Datei hat gespeichert.
+        answer: Die Datei ist gespeichert.
+      - question: Neste momento, alguém está assinando o contrato.
+        options:
+          - Der Vertrag wird unterschrieben.
+          - Der Vertrag ist unterschrieben.
+          - Der Vertrag war unterschrieben.
+        answer: Der Vertrag wird unterschrieben.
+      - question: A sala está pronta para a reunião.
+        options:
+          - Der Raum wird vorbereitet.
+          - Der Raum bereitet vor.
+          - Der Raum ist vorbereitet.
+        answer: Der Raum ist vorbereitet.
+      - question: O elevador está sendo consertado agora.
+        options:
+          - Der Aufzug ist repariert.
+          - Der Aufzug wird repariert.
+          - Der Aufzug war repariert.
+        answer: Der Aufzug wird repariert.
+
+  - type: correction
+    instruction: Corrija a frase quando o contexto pede Zustandspassiv.
+    items:
+      - question: "A porta já está fechada: Die Tür wird geschlossen."
+        answer: Die Tür ist geschlossen.
+      - question: "Os lugares já estão reservados: Die Plätze werden reserviert."
+        answer: Die Plätze sind reserviert.
+      - question: "O relatório já está impresso: Der Bericht wird gedruckt."
+        answer: Der Bericht ist gedruckt.
+      - question: "A tarefa já está concluída: Die Aufgabe wird erledigt."
+        answer: Die Aufgabe ist erledigt.
+
+  - type: short_answer
+    instruction: Responda em alemão com uma frase no Zustandspassiv.
+    items:
+      - question: Como dizer que o contrato está assinado?
+        answer: Der Vertrag ist unterschrieben.
+      - question: Como dizer que as janelas estavam abertas?
+        answer: Die Fenster waren geöffnet.
+      - question: Como dizer que o problema está resolvido?
+        answer: Das Problem ist gelöst.
+      - question: Como dizer que os documentos estão preparados?
+        answer: Die Unterlagen sind vorbereitet.

@@ -1,0 +1,130 @@
+topic: Konjunktiv I
+level: B2
+exercises:
+  - type: fill_blank
+    instruction: Complete as frases com a forma adequada do Konjunktiv I.
+    items:
+      - question: Der Sprecher sagt, die Lage ___ unter Kontrolle.
+        answer: sei
+      - question: Die Zeitung berichtet, es ___ neue Hinweise.
+        answer: gebe
+      - question: Die Firma erklärt, sie ___ genug Personal.
+        answer: habe
+      - question: Der Minister kündigt an, er ___ morgen nach Brüssel reisen.
+        answer: werde
+      - question: Die Ärztin sagt, der Patient ___ wieder arbeiten.
+        answer: könne
+      - question: Der Experte betont, man ___ vorsichtig bleiben.
+        answer: müsse
+
+  - type: multiple_choice
+    instruction: Escolha a versão mais adequada para discurso indireto jornalístico.
+    items:
+      - question: "Die Bürgermeisterin sagt: Die Brücke ist sicher."
+        options:
+          - Die Bürgermeisterin sagt, die Brücke sei sicher.
+          - Die Bürgermeisterin sagt, die Brücke ist sicher.
+          - Die Bürgermeisterin sagt, die Brücke wäre sicher gewesen.
+        answer: Die Bürgermeisterin sagt, die Brücke sei sicher.
+      - question: "Der Verein erklärt: Wir haben keine Schulden."
+        options:
+          - Der Verein erklärt, er hat keine Schulden.
+          - Der Verein erklärt, er habe keine Schulden.
+          - Der Verein erklärt, er hätte keine Schulden gehabt.
+        answer: Der Verein erklärt, er habe keine Schulden.
+      - question: "Die Polizei meldet: Es gibt keine Verletzten."
+        options:
+          - Die Polizei meldet, es gibt keine Verletzten.
+          - Die Polizei meldet, es gab keine Verletzten.
+          - Die Polizei meldet, es gebe keine Verletzten.
+        answer: Die Polizei meldet, es gebe keine Verletzten.
+      - question: "Der Trainer sagt: Der Spieler kann starten."
+        options:
+          - Der Trainer sagt, der Spieler könne starten.
+          - Der Trainer sagt, der Spieler kann starten.
+          - Der Trainer sagt, der Spieler könnte gestartet sein.
+        answer: Der Trainer sagt, der Spieler könne starten.
+      - question: "Die Forscherinnen erklären: Wir brauchen mehr Zeit."
+        options:
+          - Die Forscherinnen erklären, sie brauchen mehr Zeit.
+          - Die Forscherinnen erklären, sie habe mehr Zeit gebraucht.
+          - Die Forscherinnen erklären, sie bräuchten mehr Zeit.
+        answer: Die Forscherinnen erklären, sie bräuchten mehr Zeit.
+      - question: "Der Konzern kündigt an: Wir werden investieren."
+        options:
+          - Der Konzern kündigt an, er werde investieren.
+          - Der Konzern kündigt an, er wird investieren.
+          - Der Konzern kündigt an, er wäre investieren.
+        answer: Der Konzern kündigt an, er werde investieren.
+
+  - type: transformation
+    instruction: Transforme a fala direta em discurso indireto. Use Konjunktiv I quando a forma for clara.
+    items:
+      - question: "Die Ministerin sagt: Ich bin optimistisch."
+        answer: Die Ministerin sagt, sie sei optimistisch.
+      - question: "Der Zeuge erklärt: Ich habe den Wagen gesehen."
+        answer: Der Zeuge erklärt, er habe den Wagen gesehen.
+      - question: "Die Behörde meldet: Es gibt keine Einschränkungen."
+        answer: Die Behörde meldet, es gebe keine Einschränkungen.
+      - question: "Der Kandidat sagt: Ich will die Regeln ändern."
+        answer: Der Kandidat sagt, er wolle die Regeln ändern.
+      - question: "Die Sprecherin erklärt: Wir können die Zahlen bestätigen."
+        answer: Die Sprecherin erklärt, sie könnten die Zahlen bestätigen.
+      - question: "Der Präsident sagt: Wir müssen schneller handeln."
+        answer: Der Präsident sagt, sie müssten schneller handeln.
+
+  - type: correction
+    instruction: Corrija a frase para um estilo jornalístico neutro com Konjunktiv I ou forma substituta adequada.
+    items:
+      - question: Der Bericht schreibt, der Plan ist realistisch.
+        answer: Der Bericht schreibt, der Plan sei realistisch.
+      - question: Die Quelle sagt, sie hat neue Dokumente.
+        answer: Die Quelle sagt, sie habe neue Dokumente.
+      - question: Laut Feuerwehr sind alle Bewohner in Sicherheit.
+        answer: Laut Feuerwehr seien alle Bewohner in Sicherheit.
+      - question: Die Experten sagen, die Kosten können steigen.
+        answer: Die Experten sagen, die Kosten könnten steigen.
+      - question: Der Verband erklärt, es gibt keinen Grund zur Sorge.
+        answer: Der Verband erklärt, es gebe keinen Grund zur Sorge.
+
+  - type: classification
+    instruction: Indique se a frase é discurso direto, discurso indireto com Konjunktiv I, ou afirmação direta no indicativo.
+    items:
+      - question: Die Zeitung berichtet, der Vertrag sei unterschrieben.
+        answer: discurso indireto com Konjunktiv I
+      - question: "Der Minister sagt: Die Reform ist notwendig."
+        answer: discurso direto
+      - question: Die Reform ist notwendig.
+        answer: afirmação direta no indicativo
+      - question: Die Klinik teilt mit, der Betrieb laufe normal.
+        answer: discurso indireto com Konjunktiv I
+      - question: Die Klinik läuft normal.
+        answer: afirmação direta no indicativo
+
+  - type: short_answer
+    instruction: Reescreva de modo neutro em uma frase jornalística completa.
+    items:
+      - question: "Fonte: Die Verhandlungen sind schwierig. Comece com: Nach Angaben der Delegation..."
+        answer: Nach Angaben der Delegation seien die Verhandlungen schwierig.
+      - question: "Fonte: Der Schaden ist gering. Comece com: Die Versicherung erklärte..."
+        answer: Die Versicherung erklärte, der Schaden sei gering.
+      - question: "Fonte: Es gibt genug Impfstoff. Comece com: Das Ministerium teilte mit..."
+        answer: Das Ministerium teilte mit, es gebe genug Impfstoff.
+      - question: "Fonte: Wir werden die Entscheidung prüfen. Comece com: Die Kommission kündigte an..."
+        answer: Die Kommission kündigte an, sie werde die Entscheidung prüfen.
+      - question: "Fonte: Die Maßnahmen helfen den Familien. Comece com: Die Regierung betonte..."
+        answer: Die Regierung betonte, die Maßnahmen hülfen den Familien.
+
+  - type: translation
+    instruction: Traduza para o alemão usando discurso indireto com tom jornalístico.
+    items:
+      - question: O porta-voz diz que a decisão é definitiva.
+        answer: Der Sprecher sagt, die Entscheidung sei endgültig.
+      - question: Segundo a polícia, não há perigo para a população.
+        answer: Laut Polizei gebe es keine Gefahr für die Bevölkerung.
+      - question: A pesquisadora afirma que ela tem novos resultados.
+        answer: Die Forscherin behauptet, sie habe neue Ergebnisse.
+      - question: O governo anuncia que vai reduzir os impostos.
+        answer: Die Regierung kündigt an, sie werde die Steuern senken.
+      - question: Especialistas dizem que os preços poderiam cair.
+        answer: Experten sagen, die Preise könnten sinken.

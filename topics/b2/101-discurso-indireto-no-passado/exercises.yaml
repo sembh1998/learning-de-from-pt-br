@@ -1,0 +1,132 @@
+topic: Discurso indireto no passado
+level: B2
+exercises:
+  - type: fill_blank
+    instruction: Complete com habe, sei, hätten ou seien conforme o discurso indireto no passado.
+    items:
+      - question: Der Zeuge sagte, er ___ den Knall gehört.
+        answer: habe
+      - question: Die Sprecherin erklärte, der Zug ___ pünktlich angekommen.
+        answer: sei
+      - question: Die Forscher berichteten, sie ___ neue Daten gesammelt.
+        answer: hätten
+      - question: Laut Polizei ___ mehrere Personen geflohen.
+        answer: seien
+      - question: Der Anwalt behauptete, sein Mandant ___ den Vertrag nie gesehen.
+        answer: habe
+      - question: Die Zeitung schrieb, die Ministerin ___ bereits zurückgetreten.
+        answer: sei
+
+  - type: multiple_choice
+    instruction: Escolha a versão mais adequada para relato formal de um fato passado.
+    items:
+      - question: "Der Fahrer sagte: Ich habe sofort gebremst."
+        options:
+          - Der Fahrer sagte, er habe sofort gebremst.
+          - Der Fahrer sagte, er hat sofort gebremst.
+          - Der Fahrer sagte, er wäre sofort bremsen.
+        answer: Der Fahrer sagte, er habe sofort gebremst.
+      - question: "Die Studentin erklärte: Ich bin früh nach Hause gegangen."
+        options:
+          - Die Studentin erklärte, sie habe früh nach Hause gegangen.
+          - Die Studentin erklärte, sie sei früh nach Hause gegangen.
+          - Die Studentin erklärte, sie ist früh nach Hause gegangen.
+        answer: Die Studentin erklärte, sie sei früh nach Hause gegangen.
+      - question: "Die Ermittler sagten: Wir haben Spuren gesichert."
+        options:
+          - Die Ermittler sagten, sie haben Spuren gesichert.
+          - Die Ermittler sagten, sie habe Spuren gesichert.
+          - Die Ermittler sagten, sie hätten Spuren gesichert.
+        answer: Die Ermittler sagten, sie hätten Spuren gesichert.
+      - question: "Der Verein teilte mit: Wir sind aus dem Projekt ausgestiegen."
+        options:
+          - Der Verein teilte mit, er sei aus dem Projekt ausgestiegen.
+          - Der Verein teilte mit, er habe aus dem Projekt ausgestiegen.
+          - Der Verein teilte mit, er war aus dem Projekt ausgestiegen.
+        answer: Der Verein teilte mit, er sei aus dem Projekt ausgestiegen.
+      - question: "Die Firma gab an: Wir haben den Fehler behoben."
+        options:
+          - Die Firma gab an, sie hat den Fehler behoben.
+          - Die Firma gab an, sie habe den Fehler behoben.
+          - Die Firma gab an, sie sei den Fehler behoben.
+        answer: Die Firma gab an, sie habe den Fehler behoben.
+      - question: "Die Gäste berichteten: Wir sind später angekommen."
+        options:
+          - Die Gäste berichteten, sie seien später angekommen.
+          - Die Gäste berichteten, sie haben später angekommen.
+          - Die Gäste berichteten, sie sei später angekommen.
+        answer: Die Gäste berichteten, sie seien später angekommen.
+
+  - type: transformation
+    instruction: Transforme a fala direta em discurso indireto formal no passado.
+    items:
+      - question: "Der Techniker sagte: Ich habe das Gerät repariert."
+        answer: Der Techniker sagte, er habe das Gerät repariert.
+      - question: "Die Nachbarin erklärte: Ich bin gegen neun zurückgekommen."
+        answer: Die Nachbarin erklärte, sie sei gegen neun zurückgekommen.
+      - question: "Der Politiker behauptete: Ich habe die E-Mail nicht gelesen."
+        answer: Der Politiker behauptete, er habe die E-Mail nicht gelesen.
+      - question: "Die Firma teilte mit: Wir haben die Produktion gestoppt."
+        answer: Die Firma teilte mit, sie habe die Produktion gestoppt.
+      - question: "Die Besucher sagten: Wir sind durch den Haupteingang gekommen."
+        answer: Die Besucher sagten, sie seien durch den Haupteingang gekommen.
+      - question: "Der Zeuge meinte: Ich musste lange warten."
+        answer: Der Zeuge meinte, er habe lange warten müssen.
+
+  - type: correction
+    instruction: Corrija as frases para um estilo formal com Konjunktiv I passado ou forma substituta adequada.
+    items:
+      - question: Die Quelle sagte, der Leiter hat die Sitzung verlassen.
+        answer: Die Quelle sagte, der Leiter habe die Sitzung verlassen.
+      - question: Die Klinik erklärte, die Patientin ist am Morgen aufgewacht.
+        answer: Die Klinik erklärte, die Patientin sei am Morgen aufgewacht.
+      - question: Der Bericht schreibt, mehrere Fehler wurden gefunden.
+        answer: Der Bericht schreibt, mehrere Fehler seien gefunden worden.
+      - question: Die Experten erklärten, sie haben die Werte verglichen.
+        answer: Die Experten erklärten, sie hätten die Werte verglichen.
+      - question: Der Sprecher meinte, die Verhandlungen sind gut gelaufen.
+        answer: Der Sprecher meinte, die Verhandlungen seien gut gelaufen.
+
+  - type: classification
+    instruction: Classifique a frase como relato indireto no passado, relato indireto no presente ou afirmação direta no indicativo.
+    items:
+      - question: Der Anwalt erklärte, sein Mandant habe unterschrieben.
+        answer: relato indireto no passado
+      - question: Die Stadt teilte mit, die Brücke sei sicher.
+        answer: relato indireto no presente
+      - question: Die Sitzung dauerte drei Stunden.
+        answer: afirmação direta no indicativo
+      - question: Laut Feuerwehr seien alle Bewohner gerettet worden.
+        answer: relato indireto no passado
+      - question: Die Firma hat den Mangel behoben.
+        answer: afirmação direta no indicativo
+      - question: Der Sprecher sagt, es gebe keine Risiken.
+        answer: relato indireto no presente
+
+  - type: short_answer
+    instruction: Reescreva em uma frase jornalística completa usando a abertura dada.
+    items:
+      - question: "Informação: Die Kontrolle hat zwei Stunden gedauert. Comece com: Die Behörde teilte mit..."
+        answer: Die Behörde teilte mit, die Kontrolle habe zwei Stunden gedauert.
+      - question: "Informação: Der Direktor ist am Freitag zurückgetreten. Comece com: Das Magazin berichtete..."
+        answer: Das Magazin berichtete, der Direktor sei am Freitag zurückgetreten.
+      - question: "Informação: Wir haben alle Dokumente abgegeben. Comece com: Die Vertreter erklärten..."
+        answer: Die Vertreter erklärten, sie hätten alle Dokumente abgegeben.
+      - question: "Informação: Die Ware ist gestern angekommen. Comece com: Der Händler sagte..."
+        answer: Der Händler sagte, die Ware sei gestern angekommen.
+      - question: "Informação: Ich konnte den Termin nicht verschieben. Comece com: Die Kundin erklärte..."
+        answer: Die Kundin erklärte, sie habe den Termin nicht verschieben können.
+
+  - type: translation
+    instruction: Traduza para o alemão usando discurso indireto formal no passado.
+    items:
+      - question: O porta-voz disse que a equipe tinha verificado os números.
+        answer: Der Sprecher sagte, das Team habe die Zahlen geprüft.
+      - question: Segundo a polícia, o suspeito havia deixado a cidade.
+        answer: Laut Polizei habe der Verdächtige die Stadt verlassen.
+      - question: A diretora afirmou que chegou tarde demais.
+        answer: Die Direktorin behauptete, sie sei zu spät angekommen.
+      - question: Os pesquisadores disseram que haviam encontrado uma solução.
+        answer: Die Forscher sagten, sie hätten eine Lösung gefunden.
+      - question: O jornal noticiou que a reunião tinha sido cancelada.
+        answer: Die Zeitung berichtete, die Sitzung sei abgesagt worden.

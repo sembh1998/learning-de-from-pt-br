@@ -1,0 +1,75 @@
+topic: Discurso indireto no passado
+level: B2
+questions:
+  - type: multiple_choice
+    question: Qual frase relata corretamente uma fala passada em estilo formal?
+    options:
+      - Die Ärztin sagte, der Patient habe gut geschlafen.
+      - Die Ärztin sagte, der Patient hat gut geschlafen.
+      - Die Ärztin sagte, der Patient sei gut geschlafen.
+    answer: Die Ärztin sagte, der Patient habe gut geschlafen.
+  - type: fill_blank
+    question: Der Reporter schrieb, die Delegation ___ am Abend angekommen.
+    answer: sei
+  - type: multiple_choice
+    question: "Transforme corretamente: Der Manager erklärte: Ich habe den Plan geändert."
+    options:
+      - Der Manager erklärte, er hat den Plan geändert.
+      - Der Manager erklärte, er habe den Plan geändert.
+      - Der Manager erklärte, er sei den Plan geändert.
+    answer: Der Manager erklärte, er habe den Plan geändert.
+  - type: fill_blank
+    question: Die Zeugen sagten, sie ___ den Alarm nicht gehört.
+    answer: hätten
+  - type: multiple_choice
+    question: Qual opção usa corretamente sein no Konjunktiv I passado?
+    options:
+      - Die Läuferin sagte, sie habe früh gestartet.
+      - Die Läuferin sagte, sie war früh gestartet.
+      - Die Läuferin sagte, sie sei früh gestartet.
+    answer: Die Läuferin sagte, sie sei früh gestartet.
+  - type: transformation
+    question: "Reescreva em discurso indireto formal: Die Assistentin sagte: Ich habe die Akte kopiert."
+    answer: Die Assistentin sagte, sie habe die Akte kopiert.
+  - type: fill_blank
+    question: Laut Medien ___ der Bürgermeister seine Reise abgebrochen.
+    answer: habe
+  - type: multiple_choice
+    question: "Escolha a forma substituta adequada no plural: Die Prüfer erklärten, sie ___ Unregelmäßigkeiten entdeckt."
+    options:
+      - haben
+      - habe
+      - hätten
+    answer: hätten
+  - type: transformation
+    question: "Reescreva em estilo de notícia: Der Pilot sagte: Wir sind sicher gelandet."
+    answer: Der Pilot sagte, sie seien sicher gelandet.
+  - type: short_answer
+    question: "Complete em alemão: Segundo a universidade, a pesquisa tinha começado em 2022. Comece com: Laut Universität..."
+    answer: Laut Universität habe die Forschung 2022 begonnen.
+  - type: multiple_choice
+    question: Qual frase usa passiva passada no discurso indireto formal?
+    options:
+      - Die Akte sei gestern geprüft worden.
+      - Die Akte hat gestern geprüft worden.
+      - Die Akte wäre gestern prüfen.
+    answer: Die Akte sei gestern geprüft worden.
+  - type: correction
+    question: "Corrija para relato formal: Der Verband erklärte, die Mitglieder haben zugestimmt."
+    answer: Der Verband erklärte, die Mitglieder hätten zugestimmt.
+  - type: fill_blank
+    question: Der Beamte gab an, er ___ die Nachricht nicht erhalten.
+    answer: habe
+  - type: multiple_choice
+    question: "Qual versão mantém distância jornalística?"
+    options:
+      - Die Agentur meldete, die Verhandlungen scheiterten gestern.
+      - Die Agentur meldete, die Verhandlungen seien gestern gescheitert.
+      - Die Agentur meldete, die Verhandlungen sind gestern scheitert.
+    answer: Die Agentur meldete, die Verhandlungen seien gestern gescheitert.
+  - type: translation
+    question: "Traduza para o alemão: A testemunha afirmou que tinha ficado em casa."
+    answer: Der Zeuge behauptete, er sei zu Hause geblieben.
+  - type: short_answer
+    question: Por que a frase Der Konzern erklärte, er habe die Kosten gesenkt usa habe gesenkt e não sei gesenkt?
+    answer: Porque senken forma o Perfekt com haben; no discurso indireto formal passado, usa-se habe mais Partizip II.
