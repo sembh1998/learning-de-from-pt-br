@@ -1,0 +1,106 @@
+# Problemas de QA conhecidos em tópicos legados (gerados antes das regras atuais).
+# Não adicione novas linhas aqui para tópicos novos: corrija o conteúdo.
+topics/a1/001-alfabeto-alemao-e-sons-basicos/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/001-alfabeto-alemao-e-sons-basicos/exercises.yaml: nenhuma resposta correta está na posição 3
+topics/a1/001-alfabeto-alemao-e-sons-basicos/exercises.yaml: distribuição de respostas pouco variada: {1: 3, 2: 4, 3: 0}
+topics/a1/001-alfabeto-alemao-e-sons-basicos/test.yaml: nenhuma resposta correta está na posição 3
+topics/a1/001-alfabeto-alemao-e-sons-basicos/test.yaml: distribuição de respostas pouco variada: {1: 7, 2: 0, 3: 0}
+topics/a1/001-alfabeto-alemao-e-sons-basicos/test.yaml: respostas corretas concentradas demais: {1: 7, 2: 0, 3: 0}
+topics/a1/002-vogais-umlaut-e-ss/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/002-vogais-umlaut-e-ss/test.yaml: questão 1 parece repetir o exercício 1.4
+topics/a1/002-vogais-umlaut-e-ss/exercises.yaml: distribuição de respostas pouco variada: {1: 11, 2: 0, 3: 1}
+topics/a1/002-vogais-umlaut-e-ss/exercises.yaml: respostas corretas concentradas demais: {1: 11, 2: 0, 3: 1}
+topics/a1/002-vogais-umlaut-e-ss/test.yaml: nenhuma resposta correta está na posição 3
+topics/a1/002-vogais-umlaut-e-ss/test.yaml: distribuição de respostas pouco variada: {1: 6, 2: 0, 3: 0}
+topics/a1/002-vogais-umlaut-e-ss/test.yaml: respostas corretas concentradas demais: {1: 6, 2: 0, 3: 0}
+topics/a1/003-regras-de-leitura-essenciais/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/003-regras-de-leitura-essenciais/test.yaml: questão 1 parece repetir o exercício 1.1
+topics/a1/003-regras-de-leitura-essenciais/test.yaml: questão 5 parece repetir o exercício 3.4
+topics/a1/003-regras-de-leitura-essenciais/exercises.yaml: nenhuma resposta correta está na posição 3
+topics/a1/003-regras-de-leitura-essenciais/exercises.yaml: distribuição de respostas pouco variada: {1: 12, 2: 0, 3: 0}
+topics/a1/003-regras-de-leitura-essenciais/exercises.yaml: respostas corretas concentradas demais: {1: 12, 2: 0, 3: 0}
+topics/a1/003-regras-de-leitura-essenciais/test.yaml: nenhuma resposta correta está na posição 3
+topics/a1/003-regras-de-leitura-essenciais/test.yaml: distribuição de respostas pouco variada: {1: 8, 2: 0, 3: 0}
+topics/a1/003-regras-de-leitura-essenciais/test.yaml: respostas corretas concentradas demais: {1: 8, 2: 0, 3: 0}
+topics/a1/004-cumprimentos-e-despedidas/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/004-cumprimentos-e-despedidas/test.yaml: questão 7 parece repetir o exercício 6.3
+topics/a1/004-cumprimentos-e-despedidas/test.yaml: questão 8 parece repetir o exercício 6.4
+topics/a1/004-cumprimentos-e-despedidas/test.yaml: questão 13 parece repetir o exercício 6.2
+topics/a1/004-cumprimentos-e-despedidas/exercises.yaml: nenhuma resposta correta está na posição 3
+topics/a1/004-cumprimentos-e-despedidas/exercises.yaml: distribuição de respostas pouco variada: {1: 6, 2: 6, 3: 0}
+topics/a1/004-cumprimentos-e-despedidas/test.yaml: nenhuma resposta correta está na posição 3
+topics/a1/004-cumprimentos-e-despedidas/test.yaml: distribuição de respostas pouco variada: {1: 4, 2: 4, 3: 0}
+topics/a1/005-apresentacoes-com-sein-e-heissen/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: questão 1 parece repetir o exercício 6.1
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: questão 2 parece repetir o exercício 3.1
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: questão 3 parece repetir o exercício 3.2
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: questão 6 parece repetir o exercício 6.2
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: questão 8 parece repetir o exercício 3.5
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: questão 11 parece repetir o exercício 3.4
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: questão 14 parece repetir o exercício 2.5
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: questão 15 parece repetir o exercício 1.2
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: questão 16 parece repetir o exercício 8.2
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: questão 17 parece repetir o exercício 4.3
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: questão 18 parece repetir o exercício 1.2
+topics/a1/005-apresentacoes-com-sein-e-heissen/exercises.yaml: nenhuma resposta correta está na posição 3
+topics/a1/005-apresentacoes-com-sein-e-heissen/exercises.yaml: distribuição de respostas pouco variada: {1: 4, 2: 4, 3: 0}
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: nenhuma resposta correta está na posição 3
+topics/a1/005-apresentacoes-com-sein-e-heissen/test.yaml: distribuição de respostas pouco variada: {1: 3, 2: 3, 3: 0}
+topics/a1/006-informacoes-pessoais-basicas/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/006-informacoes-pessoais-basicas/test.yaml: questão 3 parece repetir o exercício 1.2
+topics/a1/006-informacoes-pessoais-basicas/test.yaml: questão 8 parece repetir o exercício 5.2
+topics/a1/006-informacoes-pessoais-basicas/test.yaml: questão 11 parece repetir o exercício 4.1
+topics/a1/006-informacoes-pessoais-basicas/test.yaml: questão 12 parece repetir o exercício 4.4
+topics/a1/006-informacoes-pessoais-basicas/exercises.yaml: nenhuma resposta correta está na posição 3
+topics/a1/006-informacoes-pessoais-basicas/test.yaml: nenhuma resposta correta está na posição 3
+topics/a1/006-informacoes-pessoais-basicas/test.yaml: distribuição de respostas pouco variada: {1: 1, 2: 3, 3: 0}
+topics/a1/007-pronomes-pessoais-no-nominativo/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/007-pronomes-pessoais-no-nominativo/exercises.yaml: nenhuma resposta correta está na posição 3
+topics/a1/008-o-verbo-sein-no-presente/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/008-o-verbo-sein-no-presente/test.yaml: questão 8 parece repetir o exercício 4.3
+topics/a1/008-o-verbo-sein-no-presente/exercises.yaml: nenhuma resposta correta está na posição 3
+topics/a1/009-o-verbo-haben-no-presente/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/009-o-verbo-haben-no-presente/test.yaml: questão 8 parece repetir o exercício 3.1
+topics/a1/009-o-verbo-haben-no-presente/exercises.yaml: nenhuma resposta correta está na posição 3
+topics/a1/009-o-verbo-haben-no-presente/test.yaml: nenhuma resposta correta está na posição 3
+topics/a1/010-artigos-definidos-der-die-das/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/010-artigos-definidos-der-die-das/test.yaml: questão 9 parece repetir o exercício 5.3
+topics/a1/010-artigos-definidos-der-die-das/test.yaml: nenhuma resposta correta está na posição 3
+topics/a1/010-artigos-definidos-der-die-das/test.yaml: distribuição de respostas pouco variada: {1: 2, 2: 2, 3: 0}
+topics/a1/011-padroes-de-genero-dos-substantivos/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/011-padroes-de-genero-dos-substantivos/test.yaml: questão 1 parece repetir o exercício 1.1
+topics/a1/011-padroes-de-genero-dos-substantivos/test.yaml: questão 3 parece repetir o exercício 1.3
+topics/a1/011-padroes-de-genero-dos-substantivos/test.yaml: questão 5 parece repetir o exercício 1.5
+topics/a1/011-padroes-de-genero-dos-substantivos/test.yaml: questão 10 parece repetir o exercício 2.3
+topics/a1/012-artigos-indefinidos-ein-eine/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/012-artigos-indefinidos-ein-eine/exercises.yaml: exercício 2.1 tem 2 opções; use 3 por padrão
+topics/a1/012-artigos-indefinidos-ein-eine/exercises.yaml: exercício 2.2 tem 2 opções; use 3 por padrão
+topics/a1/012-artigos-indefinidos-ein-eine/exercises.yaml: exercício 2.3 tem 2 opções; use 3 por padrão
+topics/a1/012-artigos-indefinidos-ein-eine/exercises.yaml: nenhuma resposta correta está na posição 3
+topics/a1/012-artigos-indefinidos-ein-eine/test.yaml: questão 7 tem 2 opções; use 3 por padrão
+topics/a1/012-artigos-indefinidos-ein-eine/test.yaml: nenhuma resposta correta está na posição 3
+topics/a1/012-artigos-indefinidos-ein-eine/test.yaml: distribuição de respostas pouco variada: {1: 1, 2: 3, 3: 0}
+topics/a1/013-numeros-cardinais/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/013-numeros-cardinais/exercises.yaml: nenhuma resposta correta está na posição 3
+topics/a1/013-numeros-cardinais/test.yaml: nenhuma resposta correta está na posição 3
+topics/a1/014-dias-meses-e-estacoes/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/014-dias-meses-e-estacoes/exercises.yaml: nenhuma resposta correta está na posição 3
+topics/a1/014-dias-meses-e-estacoes/test.yaml: nenhuma resposta correta está na posição 3
+topics/a1/015-ordem-basica-da-frase-alema/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/015-ordem-basica-da-frase-alema/test.yaml: questão 2 parece repetir o exercício 1.1
+topics/a1/015-ordem-basica-da-frase-alema/test.yaml: questão 7 parece repetir o exercício 4.1
+topics/a1/015-ordem-basica-da-frase-alema/test.yaml: questão 8 parece repetir o exercício 4.2
+topics/a1/015-ordem-basica-da-frase-alema/test.yaml: questão 13 parece repetir o exercício 2.1
+topics/a1/015-ordem-basica-da-frase-alema/test.yaml: nenhuma resposta correta está na posição 3
+topics/a1/016-perguntas-sim-nao/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/016-perguntas-sim-nao/test.yaml: questão 1 parece repetir o exercício 1.1
+topics/a1/016-perguntas-sim-nao/test.yaml: questão 2 parece repetir o exercício 1.3
+topics/a1/016-perguntas-sim-nao/test.yaml: questão 3 parece repetir o exercício 1.4
+topics/a1/016-perguntas-sim-nao/test.yaml: questão 6 parece repetir o exercício 2.1
+topics/a1/017-w-fragen/answers.md: ## Gabarito do teste não tem coluna de explicação
+topics/a1/017-w-fragen/test.yaml: questão 7 parece repetir o exercício 2.2
+topics/a1/017-w-fragen/test.yaml: questão 10 parece repetir o exercício 2.5
+topics/a1/017-w-fragen/test.yaml: questão 12 parece repetir o exercício 5.3
+topics/a1/017-w-fragen/test.yaml: questão 13 parece repetir o exercício 5.4
+topics/a1/017-w-fragen/test.yaml: questão 15 parece repetir o exercício 6.2
+topics/a1/017-w-fragen/exercises.yaml: nenhuma resposta correta está na posição 3

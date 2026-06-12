@@ -1,0 +1,115 @@
+topic: Partizip I como adjetivo
+level: B2
+words:
+  - german: singend
+    translation: que canta, cantante
+    type: adjective
+    gender: null
+    plural: null
+    example: Der singende Straßenmusiker steht am Kiosk.
+    example_translation: O músico de rua que canta está perto da banca.
+  - german: lächelnd
+    translation: sorridente, que sorri
+    type: adjective
+    gender: null
+    plural: null
+    example: Ein lächelndes Kind winkte uns zu.
+    example_translation: Uma criança sorridente acenou para nós.
+  - german: wartend
+    translation: que espera
+    type: adjective
+    gender: null
+    plural: null
+    example: Die wartenden Reisenden schauten auf die Anzeigetafel.
+    example_translation: Os viajantes que esperavam olhavam para o painel.
+  - german: schlafend
+    translation: que dorme, adormecido
+    type: adjective
+    gender: null
+    plural: null
+    example: Neben mir saß ein schlafender Student.
+    example_translation: Ao meu lado estava sentado um estudante adormecido.
+  - german: weinend
+    translation: que chora, choroso
+    type: adjective
+    gender: null
+    plural: null
+    example: Die Mutter tröstete das weinende Baby.
+    example_translation: A mãe consolou o bebê que chorava.
+  - german: steigend
+    translation: crescente, que sobe
+    type: adjective
+    gender: null
+    plural: null
+    example: Die steigenden Mieten sind ein großes Problem.
+    example_translation: Os aluguéis crescentes são um grande problema.
+  - german: laufend
+    translation: corrente, em andamento
+    type: adjective
+    gender: null
+    plural: null
+    example: Im laufenden Jahr gab es viele Veränderungen.
+    example_translation: No ano corrente houve muitas mudanças.
+  - german: folgend
+    translation: seguinte
+    type: adjective
+    gender: null
+    plural: null
+    example: Bitte lesen Sie den folgenden Text.
+    example_translation: Por favor, leia o texto seguinte.
+  - german: spannend
+    translation: empolgante, emocionante
+    type: adjective
+    gender: null
+    plural: null
+    example: Das war ein spannendes Thema für die Arbeit.
+    example_translation: Esse foi um tema empolgante para o trabalho.
+  - german: anstrengend
+    translation: cansativo, exaustivo
+    type: adjective
+    gender: null
+    plural: null
+    example: Die lange Fahrt war ziemlich anstrengend.
+    example_translation: A viagem longa foi bastante cansativa.
+  - german: untergehend
+    translation: que se põe (sol), poente
+    type: adjective
+    gender: null
+    plural: null
+    example: Die untergehende Sonne färbte den Himmel rot.
+    example_translation: O sol poente tingiu o céu de vermelho.
+  - german: vorbeifahrend
+    translation: que passa (veículo)
+    type: adjective
+    gender: null
+    plural: null
+    example: Das Kind winkte den vorbeifahrenden Zügen zu.
+    example_translation: A criança acenava para os trens que passavam.
+  - german: der Bahnsteig
+    translation: a plataforma (de trem)
+    type: noun
+    gender: masculine
+    plural: die Bahnsteige
+    example: Der Bahnsteig war am Abend überfüllt.
+    example_translation: A plataforma estava lotada à noite.
+  - german: die Durchsage
+    translation: o anúncio (por alto-falante)
+    type: noun
+    gender: feminine
+    plural: die Durchsagen
+    example: Die Durchsage warnte vor dem einfahrenden Zug.
+    example_translation: O anúncio alertava sobre o trem que estava chegando.
+  - german: der Pendler
+    translation: a pessoa que faz trajeto diário (pendular)
+    type: noun
+    gender: masculine
+    plural: die Pendler
+    example: Viele Pendler drängelten sich auf dem Bahnsteig.
+    example_translation: Muitos passageiros pendulares se empurravam na plataforma.
+  - german: die Abschlussarbeit
+    translation: o trabalho de conclusão de curso
+    type: noun
+    gender: feminine
+    plural: die Abschlussarbeiten
+    example: Sie schreibt ihre Abschlussarbeit über Berlin.
+    example_translation: Ela escreve seu trabalho de conclusão sobre Berlim.

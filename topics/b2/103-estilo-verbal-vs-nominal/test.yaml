@@ -1,0 +1,71 @@
+topic: Estilo verbal vs nominal
+level: B2
+questions:
+  - type: multiple_choice
+    question: Qual frase é mais adequada para um texto acadêmico formal?
+    options:
+      - Die Beobachtung des Verhaltens liefert wichtige Hinweise.
+      - Wir schauen uns an, wie sich die Leute verhalten.
+      - Man guckt auf das Verhalten und merkt etwas.
+    answer: Die Beobachtung des Verhaltens liefert wichtige Hinweise.
+  - type: multiple_choice
+    question: Qual frase usa corretamente a nominalização de sich beteiligen an?
+    options:
+      - Die Beteiligung über das Projekt war hoch.
+      - Die Beteiligung an dem Projekt war hoch.
+      - Die Beteiligigung an das Projekt war hoch.
+    answer: Die Beteiligung an dem Projekt war hoch.
+  - type: multiple_choice
+    question: Qual opção transforma erklären em um substantivo natural?
+    options:
+      - die Erklärigung
+      - die Erklären
+      - die Erklärung
+    answer: die Erklärung
+  - type: transformation
+    question: "Transforme em estilo nominal: Die Forschenden vergleichen zwei Methoden."
+    answer: Der Vergleich zweier Methoden ist zentral.
+  - type: transformation
+    question: "Transforme em estilo verbal: Die Prüfung der Unterlagen dauert bis Freitag."
+    answer: Wir prüfen die Unterlagen bis Freitag.
+  - type: fill_blank
+    question: "Complete: Die ___ des neuen Verfahrens ist für Juni geplant. (anwenden)"
+    answer: Anwendung
+  - type: fill_blank
+    question: "Complete: Die ___ über die Finanzierung wurde vertagt. (entscheiden)"
+    answer: Entscheidung
+  - type: correction
+    question: "Corrija: Die Erklärung über das Problem war verständlich."
+    answer: Die Erklärung des Problems war verständlich.
+  - type: correction
+    question: "Corrija: Die Beteiligung an den Workshop war gering."
+    answer: Die Beteiligung an dem Workshop war gering.
+  - type: multiple_choice
+    question: Qual frase é mais clara para uma mensagem direta a colegas?
+    options:
+      - Die Durchführung der Kontrolle erfolgt heute.
+      - Die Vornahme der Kontrolle ist heute.
+      - Wir kontrollieren die Geräte heute.
+    answer: Wir kontrollieren die Geräte heute.
+  - type: multiple_choice
+    question: Qual frase usa corretamente genitivo com uma nominalização?
+    options:
+      - Die Darstellung des Problems ist präzise.
+      - Die Darstellung das Problem ist präzise.
+      - Die Darstellung dem Problem ist präzise.
+    answer: Die Darstellung des Problems ist präzise.
+  - type: short_answer
+    question: Escreva uma frase nominal com die Reduzierung e der Verbrauch.
+    answer: Die Reduzierung des Verbrauchs ist ein wichtiges Ziel.
+  - type: short_answer
+    question: "Escreva uma frase verbal equivalente a: Die Veröffentlichung der Ergebnisse erfolgt morgen."
+    answer: Wir veröffentlichen die Ergebnisse morgen.
+  - type: classification
+    question: "Classifique como verbal ou nominal: Durch die Erweiterung des Angebots gewinnt die Bibliothek neue Nutzer."
+    answer: nominal
+  - type: classification
+    question: "Classifique como verbal ou nominal: Die Bibliothek erweitert ihr Angebot im Sommer."
+    answer: verbal
+  - type: transformation
+    question: "Transforme em estilo nominal com durch: Wenn man die Prozesse digitalisiert, spart die Verwaltung Zeit."
+    answer: Durch die Digitalisierung der Prozesse spart die Verwaltung Zeit.

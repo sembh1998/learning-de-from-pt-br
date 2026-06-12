@@ -258,7 +258,19 @@ def validate_topic(topic_dir: Path, issues: list[str]) -> None:
 
 
 def main(argv: list[str]) -> int:
-    paths = [Path(arg) for arg in argv]
+    baseline_path: Path | None = None
+    paths: list[Path] = []
+    args = iter(argv)
+    for arg in args:
+        if arg == "--baseline":
+            try:
+                baseline_path = Path(next(args))
+            except StopIteration:
+                print("Erro: --baseline requer um arquivo.", file=sys.stderr)
+                return 2
+        else:
+            paths.append(Path(arg))
+
     issues: list[str] = []
     topics = topic_dirs(paths)
 
@@ -268,6 +280,17 @@ def main(argv: list[str]) -> int:
 
     for topic_dir in topics:
         validate_topic(topic_dir, issues)
+
+    if baseline_path and baseline_path.exists():
+        known = {
+            line.strip()
+            for line in baseline_path.read_text(encoding="utf-8").splitlines()
+            if line.strip() and not line.startswith("#")
+        }
+        ignored = [item for item in issues if item in known]
+        issues = [item for item in issues if item not in known]
+        if ignored:
+            print(f"({len(ignored)} problema(s) conhecidos ignorados pela baseline)")
 
     if issues:
         print(f"Content QA encontrou {len(issues)} problema(s):")

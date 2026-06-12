@@ -60,6 +60,12 @@ Example folder names:
 
 Use three digits for `Ordem` so folders sort correctly.
 
+Folder slugs must be unique across the whole `topics/` tree. Derive the slug
+from `Tópico Principal`; when several roadmap rows share the same title,
+disambiguate using `Subtópicos / Conteúdo` (for example,
+`070-possessivos-nominativo-e-acusativo` and `071-possessivos-no-dativo`
+instead of two folders named `pronomes-possessivos`).
+
 ## Topic Learning Load Evaluation
 
 Before generating a topic, evaluate its learning load from the roadmap row. Use
@@ -192,9 +198,81 @@ learning value in `lesson.md`, `exercises.yaml`, `story.md`, and `test.yaml`.
 After generating a topic:
 
 1. Validate YAML files parse successfully.
-2. Run `python3 scripts/validate-content.py <topic-folder>` and address content
-   QA issues where practical.
+2. Run `python3 scripts/validate-content.py <topic-folder>` and fix all content
+   QA issues. New topics must pass with zero issues; `qa-baseline.txt` only
+   covers legacy topics and must not receive new entries.
 3. Compile PDFs with `scripts/compile-topic.sh <topic-folder>` if Typst is available.
-4. Report which files were created.
-5. Report whether flashcards were generated or intentionally skipped, and why.
-6. Do not edit `roadmap.tsv` unless explicitly asked.
+4. Generate audio with `.venv/bin/python scripts/generate-audio.py <ordem>` if
+   the local environment is set up (see Audio Generation below).
+5. Export the Anki deck with `.venv/bin/python scripts/export-anki.py` if the
+   topic has flashcards.
+6. Update `roadmap.tsv` status by running `python3 scripts/sync-roadmap.py`.
+   Do not edit `roadmap.tsv` by hand.
+7. Report which files were created.
+8. Report whether flashcards were generated or intentionally skipped, and why.
+
+## Audio Generation
+
+The project uses Piper TTS with two fixed voices:
+
+- German: `de_DE-karlsson-low`
+- Brazilian Portuguese: `pt_BR-cadu-medium`
+
+Setup (one time):
+
+```sh
+uv venv .venv
+uv pip install --python .venv/bin/python -r requirements.txt
+```
+
+Generate audio for a topic (voices download automatically on first run):
+
+```sh
+.venv/bin/python scripts/generate-audio.py 104
+```
+
+Outputs per topic under `output/audio/<topic-folder>/`:
+
+- `cards/*.wav`: one clip per flashcard front and example, consumed by the
+  Anki exporter.
+- `vocab-review.wav`: passive-listening track (German word, Portuguese
+  translation, German example, Portuguese translation).
+- `story.wav`: the `## História em alemão` section read aloud.
+
+Audio rules for generated content:
+
+- `story.md` must always contain a `## História em alemão` section with the
+  German story as plain paragraphs, because the audio script extracts exactly
+  that section.
+- Keep flashcard `front` and `example` fields as clean German text (no
+  Markdown, no parenthetical Portuguese) so the TTS clips sound natural.
+
+## Anki Export
+
+Export flashcards to a single `.apkg` with one subdeck per topic:
+
+```sh
+.venv/bin/python scripts/export-anki.py            # all topics
+.venv/bin/python scripts/export-anki.py 99 100     # specific topics
+```
+
+The deck embeds audio clips automatically when `output/audio/<topic>/cards/`
+exists, so run `generate-audio.py` before exporting when audio is wanted.
+Each note produces two cards: DE → PT (recognition) and PT → DE (production).
+Re-importing the same export updates existing notes instead of duplicating
+them.
+
+## Cumulative Reviews
+
+Spaced review is required for retention. After every block of 10 topics is
+completed (001-010, 011-020, 021-030, ...), generate a cumulative review:
+
+1. Create the folder `reviews/<start>-<end>/` (for example `reviews/001-010/`).
+2. Generate `test.yaml` using `prompts/review.prompt.md`, mixing all topics of
+   the block with fresh sentences and interleaved questions.
+3. Generate `answers.md` with a `## Gabarito do teste` table that includes an
+   explanation column, following the same rules as topic answer keys.
+4. Compile with `scripts/compile-review.sh <start>-<end>`.
+
+Review tests must never copy items from the original exercises or tests of the
+covered topics.

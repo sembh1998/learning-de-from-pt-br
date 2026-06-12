@@ -1,0 +1,124 @@
+topic: Estilo verbal vs nominal
+level: B2
+exercises:
+  - type: transformation
+    instruction: Transforme as frases verbais em frases nominais. Mantenha o sentido e use um estilo formal.
+    items:
+      - question: Wir analysieren die Daten gründlich.
+        answer: Die gründliche Analyse der Daten ist notwendig.
+      - question: Das Team untersucht den Vorfall intern.
+        answer: Die interne Untersuchung des Vorfalls beginnt sofort.
+      - question: Die Firma verbessert die Kommunikation.
+        answer: Die Verbesserung der Kommunikation ist ein zentrales Ziel.
+      - question: Die Stadt führt neue Regeln ein.
+        answer: Die Einführung neuer Regeln ist umstritten.
+
+  - type: transformation
+    instruction: Reescreva as frases nominais em estilo verbal mais claro e direto.
+    items:
+      - question: Die Senkung der Kosten ist für das Projekt entscheidend.
+        answer: Wir müssen die Kosten senken, damit das Projekt gelingt.
+      - question: Die Teilnahme an der Sitzung ist für alle Mitglieder verpflichtend.
+        answer: Alle Mitglieder müssen an der Sitzung teilnehmen.
+      - question: Die Diskussion über die Folgen dauerte lange.
+        answer: Die Gruppe diskutierte lange über die Folgen.
+      - question: Die Umsetzung des Plans beginnt im September.
+        answer: Wir setzen den Plan ab September um.
+
+  - type: multiple_choice
+    instruction: Escolha a opção que soa mais adequada para um relatório formal.
+    items:
+      - question: Qual frase é mais formal e compacta?
+        options:
+          - Die Auswertung der Umfrage zeigt klare Trends.
+          - Wir werten die Umfrage aus und sehen klare Trends.
+          - Die Umfrage ist da und wir schauen sie an.
+        answer: Die Auswertung der Umfrage zeigt klare Trends.
+      - question: Qual frase usa corretamente a nominalização de teilnehmen an?
+        options:
+          - Die Teilnahme über dem Kurs ist wichtig.
+          - Die Teilnahme an dem Kurs ist wichtig.
+          - Die Teilnehmung an den Kurs ist wichtig.
+        answer: Die Teilnahme an dem Kurs ist wichtig.
+      - question: Qual frase mantém corretamente a preposição do verbo diskutieren über?
+        options:
+          - Die Diskussion an die Reform war kurz.
+          - Die Diskussion mit der Reform war kurz.
+          - Die Diskussion über die Reform war kurz.
+        answer: Die Diskussion über die Reform war kurz.
+      - question: Qual frase evita uma nominalização artificial?
+        options:
+          - Die Kritisierung an dem Text war lang.
+          - Die Kritik an dem Text war ausführlich.
+          - Die Kritikierung des Textes war lang.
+        answer: Die Kritik an dem Text war ausführlich.
+      - question: Qual frase é mais clara para um e-mail simples?
+        options:
+          - Die Bearbeitung Ihrer Anfrage erfolgt morgen.
+          - Wir bearbeiten Ihre Anfrage morgen.
+          - Die Durchführung der Bearbeitung ist morgen.
+        answer: Wir bearbeiten Ihre Anfrage morgen.
+      - question: Qual frase usa corretamente o genitivo depois de uma nominalização?
+        options:
+          - Die Verbesserung die Prozesse ist wichtig.
+          - Die Verbesserung den Prozessen ist wichtig.
+          - Die Verbesserung der Prozesse ist wichtig.
+        answer: Die Verbesserung der Prozesse ist wichtig.
+
+  - type: fill_blank
+    instruction: Complete com a forma nominal adequada.
+    items:
+      - question: Die ___ der Ergebnisse zeigt ein klares Muster. (analysieren)
+        answer: Analyse
+      - question: Die ___ neuer Maßnahmen beginnt nächste Woche. (einführen)
+        answer: Einführung
+      - question: Die ___ an der Fortbildung ist kostenlos. (teilnehmen)
+        answer: Teilnahme
+      - question: Die ___ der Energiekosten entlastet viele Haushalte. (senken)
+        answer: Senkung
+      - question: Die ___ junger Talente ist eine langfristige Aufgabe. (fördern)
+        answer: Förderung
+      - question: Die ___ des Konzepts war sachlich. (kritisieren)
+        answer: Kritik
+
+  - type: correction
+    instruction: Corrija a frase alemã, prestando atenção a preposição, caso e forma nominal natural.
+    items:
+      - question: Die Teilnahme über die Veranstaltung ist kostenlos.
+        answer: Die Teilnahme an der Veranstaltung ist kostenlos.
+      - question: Die Diskussion an den Vorschlag war intensiv.
+        answer: Die Diskussion über den Vorschlag war intensiv.
+      - question: Die Entscheidung für den Antrag fällt morgen.
+        answer: Die Entscheidung über den Antrag fällt morgen.
+      - question: Die Verbesserung die Qualität bleibt wichtig.
+        answer: Die Verbesserung der Qualität bleibt wichtig.
+      - question: Die Kritisierung an dem Bericht war deutlich.
+        answer: Die Kritik an dem Bericht war deutlich.
+
+  - type: short_answer
+    instruction: Produza uma frase em alemão com estilo nominal a partir da ideia indicada.
+    items:
+      - question: "Ideia: analisar resultados em um projeto."
+        answer: Die Analyse der Ergebnisse ist für das Projekt wichtig.
+      - question: "Ideia: implementar uma estratégia em uma empresa."
+        answer: Die Umsetzung der Strategie erfordert klare Ziele.
+      - question: "Ideia: comparar dois modelos."
+        answer: Der Vergleich beider Modelle zeigt deutliche Unterschiede.
+      - question: "Ideia: melhorar a comunicação interna."
+        answer: Die Verbesserung der internen Kommunikation hat Priorität.
+
+  - type: classification
+    instruction: Classifique cada frase como verbal ou nominal.
+    items:
+      - question: Die Expertin bewertet den Vorschlag kritisch.
+        answer: verbal
+      - question: Die Bewertung des Vorschlags war kritisch.
+        answer: nominal
+      - question: Wir führen das neue System im April ein.
+        answer: verbal
+      - question: Die Einführung des neuen Systems ist für April geplant.
+        answer: nominal
+      - question: Durch die Modernisierung spart die Schule Energie.
+        answer: nominal
+      - question: Die Schule modernisiert das Gebäude und spart Energie.
+        answer: verbal

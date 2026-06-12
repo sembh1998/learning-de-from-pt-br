@@ -1,0 +1,59 @@
+topic: Partizip I como adjetivo
+level: B2
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Die tanzende Paar verließ den Saal.
+      - Das tanzendes Paar verließ den Saal.
+      - Das tanzende Paar verließ den Saal.
+    answer: Das tanzende Paar verließ den Saal.
+  - type: fill_blank
+    question: "Complete com o Partizip I e a terminação correta: Der ___ Reporter stellte viele Fragen. (lächeln)"
+    answer: lächelnde
+  - type: multiple_choice
+    question: Ich gab dem ___ Mädchen ein Taschentuch.
+    options:
+      - frierenden
+      - frierende
+      - frierendes
+    answer: frierenden
+  - type: transformation
+    question: "Transforme em atributo com Partizip I: Die Touristen, die fotografieren, blockieren den Eingang."
+    answer: Die fotografierenden Touristen blockieren den Eingang.
+  - type: multiple_choice
+    question: Eine ___ Menge versammelte sich vor dem Rathaus.
+    options:
+      - protestierenden
+      - protestierende
+      - protestierender
+    answer: protestierende
+  - type: fill_blank
+    question: "Complete com o Partizip I e a terminação correta: Das ___ Wasser ist gefährlich. (kochen)"
+    answer: kochende
+  - type: transformation
+    question: "Transforme em oração relativa: Die landende Maschine kommt aus Lissabon."
+    answer: Die Maschine, die landet, kommt aus Lissabon.
+  - type: multiple_choice
+    question: Qual opção corresponde a "die Frau, die joggt"?
+    options:
+      - die joggenden Frau
+      - der joggende Frau
+      - die joggende Frau
+    answer: die joggende Frau
+  - type: translation
+    question: "Traduza usando o Partizip I: O bebê que dorme está no quarto."
+    answer: Das schlafende Baby ist im Zimmer.
+  - type: fill_blank
+    question: "Complete com o Partizip I e a terminação correta: Wir bewunderten die ___ Sterne. (funkeln)"
+    answer: funkelnden
+  - type: multiple_choice
+    question: Em qual contexto o Partizip I como adjetivo é mais típico?
+    options:
+      - em conversas informais por telefone
+      - em textos escritos formais
+      - em mensagens curtas de chat
+    answer: em textos escritos formais
+  - type: transformation
+    question: "Transforme em atributo com Partizip I: Der Verkäufer, der schweigt, wirkt unfreundlich."
+    answer: Der schweigende Verkäufer wirkt unfreundlich.

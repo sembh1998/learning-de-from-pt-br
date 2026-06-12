@@ -1,0 +1,129 @@
+topic: Estilo verbal vs nominal
+level: B2
+words:
+  - german: die Analyse
+    translation: a análise
+    type: noun
+    gender: feminine
+    plural: die Analysen
+    example: Die Analyse der Zahlen ist noch nicht abgeschlossen.
+    example_translation: A análise dos números ainda não foi concluída.
+  - german: die Untersuchung
+    translation: a investigação; o estudo
+    type: noun
+    gender: feminine
+    plural: die Untersuchungen
+    example: Die Untersuchung des Falls dauert länger als erwartet.
+    example_translation: A investigação do caso leva mais tempo do que o esperado.
+  - german: die Entscheidung
+    translation: a decisão
+    type: noun
+    gender: feminine
+    plural: die Entscheidungen
+    example: Die Entscheidung über den Antrag fällt nächste Woche.
+    example_translation: A decisão sobre o requerimento sai na próxima semana.
+  - german: die Entwicklung
+    translation: o desenvolvimento; a evolução
+    type: noun
+    gender: feminine
+    plural: die Entwicklungen
+    example: Die Entwicklung neuer Ideen braucht Zeit.
+    example_translation: O desenvolvimento de novas ideias precisa de tempo.
+  - german: die Verbesserung
+    translation: a melhoria
+    type: noun
+    gender: feminine
+    plural: die Verbesserungen
+    example: Die Verbesserung der Kommunikation ist ein wichtiges Ziel.
+    example_translation: A melhoria da comunicação é um objetivo importante.
+  - german: die Einführung
+    translation: a introdução; a implementação inicial
+    type: noun
+    gender: feminine
+    plural: die Einführungen
+    example: Die Einführung des neuen Systems beginnt im Herbst.
+    example_translation: A introdução do novo sistema começa no outono.
+  - german: die Teilnahme
+    translation: a participação
+    type: noun
+    gender: feminine
+    plural: null
+    example: Die Teilnahme an der Sitzung ist verpflichtend.
+    example_translation: A participação na reunião é obrigatória.
+  - german: die Diskussion
+    translation: a discussão; o debate
+    type: noun
+    gender: feminine
+    plural: die Diskussionen
+    example: Die Diskussion über die Reform war sachlich.
+    example_translation: A discussão sobre a reforma foi objetiva.
+  - german: die Kritik
+    translation: a crítica
+    type: noun
+    gender: feminine
+    plural: die Kritiken
+    example: Die Kritik an dem Konzept war deutlich.
+    example_translation: A crítica ao conceito foi clara.
+  - german: die Senkung
+    translation: a redução; a diminuição
+    type: noun
+    gender: feminine
+    plural: die Senkungen
+    example: Durch die Senkung der Kosten wurde das Projekt möglich.
+    example_translation: Por meio da redução dos custos, o projeto se tornou possível.
+  - german: die Förderung
+    translation: o incentivo; a promoção; o apoio
+    type: noun
+    gender: feminine
+    plural: die Förderungen
+    example: Die Förderung junger Talente ist langfristig wichtig.
+    example_translation: O incentivo a jovens talentos é importante a longo prazo.
+  - german: die Umsetzung
+    translation: a implementação; a execução
+    type: noun
+    gender: feminine
+    plural: die Umsetzungen
+    example: Die Umsetzung des Plans erfordert klare Zuständigkeiten.
+    example_translation: A implementação do plano exige responsabilidades claras.
+  - german: der Vergleich
+    translation: a comparação
+    type: noun
+    gender: masculine
+    plural: die Vergleiche
+    example: Der Vergleich beider Modelle zeigt große Unterschiede.
+    example_translation: A comparação dos dois modelos mostra grandes diferenças.
+  - german: die Auswertung
+    translation: a avaliação; a análise de dados
+    type: noun
+    gender: feminine
+    plural: die Auswertungen
+    example: Die Auswertung von Umfragen liefert wichtige Hinweise.
+    example_translation: A avaliação de pesquisas fornece indicações importantes.
+  - german: der Antrag
+    translation: o requerimento; a solicitação formal
+    type: noun
+    gender: masculine
+    plural: die Anträge
+    example: Über den Antrag wird am Montag entschieden.
+    example_translation: A decisão sobre o requerimento será tomada na segunda-feira.
+  - german: sachlich
+    translation: objetivo; factual
+    type: adjective
+    gender: null
+    plural: null
+    example: Der Bericht ist sachlich formuliert.
+    example_translation: O relatório está formulado de maneira objetiva.
+  - german: deutlich
+    translation: claro; evidente
+    type: adjective
+    gender: null
+    plural: null
+    example: Die Vorteile werden deutlich beschrieben.
+    example_translation: As vantagens são descritas claramente.
+  - german: durch
+    translation: por meio de; através de
+    type: preposition
+    gender: null
+    plural: null
+    example: Durch die Modernisierung spart die Firma Energie.
+    example_translation: Por meio da modernização, a empresa economiza energia.

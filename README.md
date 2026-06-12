@@ -31,6 +31,9 @@ printable PDFs.
 ```txt
 german-learning-content/
 ├── README.md
+├── requirements.txt
+├── roadmap.tsv
+├── qa-baseline.txt
 ├── topics/
 │   ├── a1/
 │   │   └── 001-alfabeto-alemao-e-sons-basicos/
@@ -46,6 +49,10 @@ german-learning-content/
 │   ├── b2/
 │   ├── c1/
 │   └── c2/
+├── reviews/
+│   └── 001-010/
+│       ├── test.yaml
+│       └── answers.md
 ├── templates/
 │   ├── lesson.typ
 │   ├── flashcards.typ
@@ -59,13 +66,20 @@ german-learning-content/
 │   ├── exercises.prompt.md
 │   ├── test.prompt.md
 │   ├── story.prompt.md
-│   └── answers.prompt.md
+│   ├── answers.prompt.md
+│   └── review.prompt.md
 ├── scripts/
 │   ├── generate-topic.sh
 │   ├── compile-topic.sh
-│   └── compile-all.sh
+│   ├── compile-all.sh
+│   ├── compile-review.sh
+│   ├── validate-content.py
+│   ├── sync-roadmap.py
+│   ├── generate-audio.py
+│   └── export-anki.py
 └── output/
     ├── pdf/
+    ├── audio/
     └── exports/
 ```
 
@@ -232,11 +246,77 @@ typst compile --root . templates/lesson.typ output/pdf/001-alfabeto-alemao-e-son
 7. Run content QA:
 
 ```sh
-python3 scripts/validate-content.py
+python3 scripts/validate-content.py --baseline qa-baseline.txt
 ```
 
 8. Compile PDFs locally with Typst.
-9. Keep editing the source Markdown/YAML, then recompile PDFs as needed.
+9. Generate audio and export the Anki deck (see below).
+10. Sync the roadmap status:
+
+```sh
+python3 scripts/sync-roadmap.py
+```
+
+11. Keep editing the source Markdown/YAML, then recompile PDFs as needed.
+
+New topics must pass content QA with zero issues. `qa-baseline.txt` exists only
+to grandfather legacy topics generated before the QA rules; do not add new
+entries to it.
+
+## Audio And Anki
+
+One-time setup of the local Python environment (uses [uv](https://docs.astral.sh/uv/)):
+
+```sh
+uv venv .venv
+uv pip install --python .venv/bin/python -r requirements.txt
+```
+
+Generate audio with Piper TTS (voices `de_DE-karlsson-low` and
+`pt_BR-cadu-medium` are downloaded automatically to `.cache/piper-voices/` on
+first run):
+
+```sh
+.venv/bin/python scripts/generate-audio.py            # all topics
+.venv/bin/python scripts/generate-audio.py 22 104     # specific topics
+```
+
+Per topic this writes to `output/audio/<topic-folder>/`:
+
+- `cards/*.wav`: one clip per flashcard front and example (used by the Anki export).
+- `vocab-review.wav`: passive-listening loop, German + Portuguese.
+- `story.wav`: the German story read aloud.
+
+If `ffmpeg` is installed, the WAV files are converted to MP3 automatically.
+
+Export flashcards to Anki (one `.apkg` with a subdeck per topic, audio
+embedded when available):
+
+```sh
+.venv/bin/python scripts/export-anki.py               # all topics
+.venv/bin/python scripts/export-anki.py 99 100        # specific topics
+```
+
+Import `output/exports/alemao.apkg` into Anki. Each note creates two cards:
+DE → PT (recognition) and PT → DE (production). Re-importing updates notes in
+place.
+
+## Cumulative Reviews
+
+After every block of 10 completed topics, generate a cumulative review test in
+`reviews/<start>-<end>/` (for example `reviews/001-010/`) using
+`prompts/review.prompt.md`, plus an `answers.md` answer key. Compile it with:
+
+```sh
+scripts/compile-review.sh 001-010
+```
+
+## Study Cadence Suggestion
+
+1. One new topic per day: read `lesson.md`, listen to `story.wav`, do the exercises.
+2. Anki every day (10-20 minutes), importing new topics as they are generated.
+3. Listen to `vocab-review.wav` of recent topics during idle time.
+4. One cumulative review test at the end of every 10-topic block.
 
 ## Examples
 

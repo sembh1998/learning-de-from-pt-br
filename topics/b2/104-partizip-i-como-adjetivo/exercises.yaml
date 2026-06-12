@@ -1,0 +1,76 @@
+topic: Partizip I como adjetivo
+level: B2
+exercises:
+  - type: fill_blank
+    instruction: Complete com o Partizip I do verbo entre parênteses, com a terminação correta.
+    items:
+      - question: Die ___ Studentin sitzt seit Stunden in der Bibliothek. (lesen)
+        answer: lesende
+      - question: Wir hörten das ___ Baby im Nebenzimmer. (schreien)
+        answer: schreiende
+      - question: Er beruhigte den ___ Passagier mit einer Tasse Tee. (zittern)
+        answer: zitternden
+      - question: Die ___ Kosten beunruhigen die kleine Firma. (steigen)
+        answer: steigenden
+      - question: Sie beobachtete die ___ Vögel am Himmel. (kreisen)
+        answer: kreisenden
+
+  - type: multiple_choice
+    instruction: Escolha a forma correta do Partizip I.
+    items:
+      - question: Der ___ Junge gewann das Rennen.
+        options:
+          - laufender
+          - laufende
+          - laufenden
+        answer: laufende
+      - question: Ich half einer ___ Touristin am Flughafen.
+        options:
+          - suchende
+          - suchender
+          - suchenden
+        answer: suchenden
+      - question: Ein ___ Hund lag vor der Tür.
+        options:
+          - schlafender
+          - schlafendes
+          - schlafenden
+        answer: schlafender
+      - question: Wir sahen die ___ Kinder im Garten.
+        options:
+          - spielende
+          - spielenden
+          - spielender
+        answer: spielenden
+
+  - type: transformation
+    instruction: Transforme a oração relativa em um atributo com Partizip I.
+    items:
+      - question: Die Frau, die telefoniert, steht am Fenster.
+        answer: Die telefonierende Frau steht am Fenster.
+      - question: Das Kind, das weint, sucht seine Mutter.
+        answer: Das weinende Kind sucht seine Mutter.
+      - question: Der Zug, der ankommt, hat zehn Minuten Verspätung.
+        answer: Der ankommende Zug hat zehn Minuten Verspätung.
+      - question: Wir grüßen die Nachbarn, die vorbeigehen.
+        answer: Wir grüßen die vorbeigehenden Nachbarn.
+
+  - type: transformation
+    instruction: Transforme o atributo com Partizip I em uma oração relativa.
+    items:
+      - question: Der bellende Hund gehört meinem Onkel.
+        answer: Der Hund, der bellt, gehört meinem Onkel.
+      - question: Sie fotografierte die untergehende Sonne.
+        answer: Sie fotografierte die Sonne, die untergeht.
+      - question: Die wartenden Gäste wurden langsam ungeduldig.
+        answer: Die Gäste, die warten, wurden langsam ungeduldig.
+
+  - type: translation
+    instruction: Traduza para o alemão usando o Partizip I como adjetivo.
+    items:
+      - question: O homem que canta trabalha no teatro.
+        answer: Der singende Mann arbeitet im Theater.
+      - question: Uma criança sorridente abriu a porta.
+        answer: Ein lächelndes Kind öffnete die Tür.
+      - question: Os passageiros que dormiam não ouviram o anúncio.
+        answer: Die schlafenden Passagiere hörten die Durchsage nicht.
